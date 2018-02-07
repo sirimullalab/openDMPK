@@ -1,2 +1,2 @@
-# openpk
-Open PharmacoKinetics (OpenPK) is modular and comprehensive toolkit for predicting pharmacokinetic properties . OpenPK is written in Python.
+# openDMPK
+Open Drug Metabolism & PharmacoKinetics (OpenDMPK) is an open source data resource and toolkit for predicting drug metabolism and pharmacokinetic properties of drug molecules.
