@@ -1,0 +1,6 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,179881,CHEMBL226646,CHEMBL889286,381897,Homo sapiens,Homo sapiens,D,,,,Activity,Not Active,36050,101468,PROTEIN,SINGLE PROTEIN,9,Cytochrome b5
+1,179882,CHEMBL226646,CHEMBL889287,381897,Homo sapiens,Homo sapiens,D,,,,Activity,Not Active,36050,101468,PROTEIN,SINGLE PROTEIN,9,Cytochrome b5
+2,179883,CHEMBL469169,CHEMBL979984,488253,,Homo sapiens,H,,,,Activity,Not Active,44039,101468,PROTEIN,SINGLE PROTEIN,8,Cytochrome b5
+3,179884,CHEMBL561013,CHEMBL3538988,559432,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,91946,101468,PROTEIN,SINGLE PROTEIN,9,Cytochrome b5
+4,179885,CHEMBL3527149,CHEMBL3538989,1924853,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,91946,101468,PROTEIN,SINGLE PROTEIN,9,Cytochrome b5

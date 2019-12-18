@@ -1,0 +1,4 @@
+,drug_name,drug_type,Smiles
+0,Candesartan,Inhibitor,CCOC1=NC2=CC=CC(C(O)=O)=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NN=NN5
+1,Estrone,Substrate,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CCC2=O
+2,Pranlukast,Inhibitor,O=C(NC1=CC=C2C(=O)C=C(OC2=C1)C3=NN=NN3)C4=CC=C(OCCCCC5=CC=CC=C5)C=C4

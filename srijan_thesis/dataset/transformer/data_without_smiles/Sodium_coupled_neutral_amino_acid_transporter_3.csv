@@ -1,0 +1,12 @@
+,drug_name,drug_type
+0,Aminosalicylic Acid,Substrate
+1,Cisplatin,Inhibitor
+2,Dexamethasone,Inducer
+3,Folic Acid,Substrate
+4,Isoniazid,Substrate
+5,Levoglutamide,Substrate
+6,"Mercury, Metallic",Inhibitor
+7,Mesalazine,Substrate
+8,Paclitaxel,Inhibitor
+9,Sulfadimidine,Substrate
+10,Sulfamethoxazole,Substrate

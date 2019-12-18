@@ -1,0 +1,5 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,88,CHEMBL373944,CHEMBL915767,370831,Homo sapiens,Homo sapiens,D,=,40.0,%,Inhibition,,35162,109705,PROTEIN,PROTEIN FAMILY,5,Cytochrome P450 1A
+1,89,CHEMBL373394,CHEMBL915767,370871,Homo sapiens,Homo sapiens,D,=,28.0,%,Inhibition,,35162,109705,PROTEIN,PROTEIN FAMILY,5,Cytochrome P450 1A
+2,90,CHEMBL3823832,CHEMBL3824678,2092520,Homo sapiens,Homo sapiens,D,=,6900.0,nM,IC50,,99678,109705,PROTEIN,PROTEIN FAMILY,5,Cytochrome P450 1A
+3,91,CHEMBL3823354,CHEMBL3824678,2092493,Homo sapiens,Homo sapiens,D,>,25000.0,nM,IC50,,99678,109705,PROTEIN,PROTEIN FAMILY,5,Cytochrome P450 1A

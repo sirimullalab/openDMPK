@@ -1,0 +1,8 @@
+,drug_name,drug_type
+0,Bumetanide,Substrate
+1,Erythromycin,"Inhibitor,Substrate"
+2,Estradiol,Inducer
+3,Methotrexate,Substrate
+4,Probenecid,Inhibitor
+5,Ranitidine,Substrate
+6,Theophylline,"Inhibitor,Substrate"

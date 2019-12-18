@@ -1,0 +1,4 @@
+,drug_name,drug_type,Smiles
+0,Cimetidine,Inhibitor,CNC(NCCSCC1=C(C)NC=N1)=N/C#N
+1,Gabapentin,Substrate,NC[C@@]1(CCCCC1)CC(O)=O
+2,Levocarnitine,Substrate,C[N+](C)(C)C[C@H](O)CC([O-])=O

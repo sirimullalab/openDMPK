@@ -1,0 +1,11 @@
+,activity_id,assay_id,doc_id,record_id,molregno,standard_relation,standard_value,standard_units,standard_flag,standard_type,activity_comment,data_validity_comment,potential_duplicate,pchembl_value,bao_endpoint,uo_units,qudt_units,toid,upper_value,standard_upper_value,src_id,type,relation,value,units,text_value,standard_text_value
+0,31863,54505,6424,206172,180094,>,100000.0,nM,1,IC50,,,0,,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,>,100.0,uM,,
+1,31864,83907,6432,208970,182268,=,2500.0,nM,1,IC50,,,1,5.6,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,=,2.5,uM,,
+2,31865,88152,6432,208970,182268,>,50000.0,nM,1,IC50,,,0,,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,>,50.0,uM,,
+3,31866,83907,6432,208987,182855,=,9000.0,nM,1,IC50,,,1,5.05,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,=,9.0,uM,,
+4,31867,88153,6432,208987,182855,,,,0,IC50,Not Determined,,0,,BAO_0000190,,,,,,1,IC50,,,uM,,
+5,31868,154606,6570,297547,252199,=,4000.0,nM,1,IC50,,,0,5.4,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,=,4.0,uM,,
+6,31869,5080,6570,297547,252199,=,25.0,%,0,% remaining,,,0,,BAO_0000179,UO_0000187,http://qudt.org/vocab/unit#Percent,,,,1,% remaining,=,25.0,%,,
+7,31870,154606,6570,297563,253534,=,17000.0,nM,1,IC50,,,0,4.77,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,=,17.0,uM,,
+8,31871,5080,6570,297563,253534,=,27.0,%,0,% remaining,,,0,,BAO_0000179,UO_0000187,http://qudt.org/vocab/unit#Percent,,,,1,% remaining,=,27.0,%,,
+9,31872,154606,6570,297580,253199,=,180.0,nM,1,IC50,,,0,6.75,BAO_0000190,UO_0000065,http://www.openphacts.org/units/Nanomolar,,,,1,IC50,=,180.0,nM,,

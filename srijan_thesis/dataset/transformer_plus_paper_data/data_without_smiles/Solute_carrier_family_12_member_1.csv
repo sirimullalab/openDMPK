@@ -1,0 +1,10 @@
+,drug_name,drug_type
+0,Bumetanide,"Inhibitor,Substrate"
+1,Desmopressin,Inducer
+2,Furosemide,Inducer
+3,Hydrochlorothiazide,Inducer
+4,Lithium,Inducer
+5,Nitric Oxide,Inhibitor
+6,Potassium Chloride,Substrate
+7,Sodium Chloride,"Inducer,Substrate"
+8,Vasopressin,Inducer

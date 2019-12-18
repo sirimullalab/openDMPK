@@ -1,0 +1,21 @@
+,drug_name,drug_type
+0,Aminomethylbenzoic Acid,Inhibitor
+1,Cefaclor,Substrate
+2,Cefadroxil,Substrate
+3,Cefalexin,Substrate
+4,Cefixime,Substrate
+5,Cefradine,"Inhibitor,Substrate"
+6,Ceftibuten,Substrate
+7,Cisplatin,Inducer
+8,Deanol,Substrate
+9,Didanosine,Substrate
+10,Insulin (human),Inducer
+11,Midodrine,Substrate
+12,Nitrogen,Substrate
+13,Oseltamivir,Substrate
+14,Pancreozymin (cholecystokinin),Substrate
+15,Quinapril,Inhibitor
+16,Sulpiride,Substrate
+17,Talinolol,Substrate
+18,Valaciclovir,Substrate
+19,Valganciclovir,Substrate

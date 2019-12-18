@@ -1,0 +1,19 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,Smiles,-log10(M) Values,Label
+0,CHEMBL550,CHEMBL3532208,14406,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,1400.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,CC[C@H]1[C@@H](Cc2cncn2C)COC1=O,5.854,active
+1,CHEMBL3,CHEMBL3532208,115,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,72000.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,CN1CCC[C@H]1c2cccnc2,4.143,inactive
+2,CHEMBL6640,CHEMBL3532208,442,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,16000.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,NCCc1c[nH]c2ccccc12,4.796,indeterminate
+3,CHEMBL1179,CHEMBL3532208,193460,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,6500.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,N[C@@H]1C[C@H]1c2ccccc2,5.187,indeterminate
+4,CHEMBL416,CHEMBL3532210,1063,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,40.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,COc1c2OC(=O)C=Cc2cc3ccoc13,7.398,active
+5,CHEMBL1522291,CHEMBL3532210,946175,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,5600.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,Cn1cccc1c2cccnc2,5.252,indeterminate
+6,CHEMBL3526658,CHEMBL3532210,1924357,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,54000.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,C[C@@H]1CCc2c(C)coc2C1,4.268,inactive
+7,CHEMBL3188333,CHEMBL3532210,1677624,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,17000.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,CN(C)c1ccc(C=O)cc1,4.77,indeterminate
+8,CHEMBL151649,CHEMBL3532210,251346,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,3800.0,nM,Ki,,91899,109702,PROTEIN,SINGLE PROTEIN,9,S=C=NCCc1ccccc1,5.42,indeterminate
+9,CHEMBL550,CHEMBL3535230,14406,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,3000.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,CC[C@H]1[C@@H](Cc2cncn2C)COC1=O,5.523,active
+10,CHEMBL6640,CHEMBL3535230,442,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,5200.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,NCCc1c[nH]c2ccccc12,5.284,indeterminate
+11,CHEMBL1179,CHEMBL3535230,193460,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,2300.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,N[C@@H]1C[C@H]1c2ccccc2,5.638,active
+12,CHEMBL416,CHEMBL3535231,1063,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,1600.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,COc1c2OC(=O)C=Cc2cc3ccoc13,5.796,active
+13,CHEMBL3,CHEMBL3535231,115,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,54000.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,CN1CCC[C@H]1c2cccnc2,4.268,inactive
+14,CHEMBL1522291,CHEMBL3535231,946175,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,8200.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,Cn1cccc1c2cccnc2,5.086,indeterminate
+15,CHEMBL151649,CHEMBL3535231,251346,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,430.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,S=C=NCCc1ccccc1,6.367,active
+16,CHEMBL3188333,CHEMBL3535231,1677624,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,650.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,CN(C)c1ccc(C=O)cc1,6.187,active
+17,CHEMBL3526658,CHEMBL3535231,1924357,Cytochrome P450 2A13,Homo sapiens,Homo sapiens,D,=,580.0,nM,Kd,,91899,109702,PROTEIN,SINGLE PROTEIN,9,C[C@@H]1CCc2c(C)coc2C1,6.237,active

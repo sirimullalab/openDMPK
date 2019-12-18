@@ -1,0 +1,33 @@
+***************************************************************************
+*
+* Name:         INSTALL
+*
+* Purpose:      To describe how to import ChEMBL data into an
+*               MySQL database.
+*
+* Date:         01/02/2019
+*
+* Contact:      chembl-help@ebi.ac.uk
+*
+***************************************************************************
+*
+* DB Version    chembl_25
+* MySQL         5.6.24
+*
+***************************************************************************
+
+Instructions
+------------
+
+1. Log into MySQL database server where you intend to load chembl data and
+   run the following command to create new database:
+
+    mysql> create database chembl_25 DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
+
+2. Logout of database and run the following command to load data. You will
+   need to replace USERNAME, PASSWORD, HOST and PORT with local settings.
+   Depending on your database setup you may not need the host and port
+   arguments.
+
+    $> mysql -uUSERNAME -pPASSWORD [-hHOST -PPORT] chembl_25 < chembl_25_mysql.dmp
+

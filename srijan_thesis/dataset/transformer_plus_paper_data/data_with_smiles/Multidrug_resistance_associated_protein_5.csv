@@ -1,0 +1,8 @@
+,drug_name,drug_type,Smiles
+0,Adenosine,Substrate,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=NC=N1
+1,Fluorescein,Substrate,OC1=CC2=C(C=C1)[C@]3(OC(=O)C4=C3C=CC=C4)C5=C(O2)C=C(O)C=C5
+2,Fluorouracil,Inducer,FC1=CNC(=O)NC1=O
+3,Gemcitabine,Inducer,NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F
+4,Gemcitabine,Substrate,NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F
+5,Irinotecan,Substrate,CCC1=C2CN3C(=O)C4=C(C=C3C2=NC5=CC=C(OC(=O)N6CC[C@@H](CC6)N7CCCCC7)C=C15)[C@@](O)(CC)C(=O)OC4
+6,Probenecid,Inhibitor,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O

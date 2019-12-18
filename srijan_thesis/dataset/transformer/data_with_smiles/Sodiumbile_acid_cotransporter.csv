@@ -1,0 +1,8 @@
+,drug_name,drug_type,Smiles
+0,Adenosine,Inducer,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=NC=N1
+1,Bosentan,Inhibitor,COC1=CC=CC=C1OC2=C(NS(=O)(=O)C3=CC=C(C=C3)C(C)(C)C)N=C(N=C2OCCO)C4=NC=CC=N4
+2,Colestyramine,Inducer,CCC1=CC=C(C=C1)[C@@H](C)CCC2=CC=C(C=C2)[N+](C)(C)C
+3,Dexamethasone,Inducer,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO
+4,Rifampicin,Substrate,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+5,Ritonavir,Inhibitor,CC(C)[C@@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC2=CC=CC=C2)NC(=O)OCC3=CN=CS3)CC4=CC=CC=C4
+6,Rosuvastatin,Substrate,CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1C=C[C@H](O)C[C@@H](O)CC(O)=O)N(C)S(C)(=O)=O

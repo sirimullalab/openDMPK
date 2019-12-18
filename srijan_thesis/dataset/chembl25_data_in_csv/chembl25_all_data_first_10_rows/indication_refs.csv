@@ -1,0 +1,11 @@
+,indref_id,drugind_id,ref_type,ref_id,ref_url
+0,120341,52038,ClinicalTrials,NCT00400387,https://clinicaltrials.gov/search?id=%22NCT00400387%22
+1,120342,51744,ClinicalTrials,NCT01976676,https://clinicaltrials.gov/search?id=%22NCT01976676%22
+2,120343,51745,ClinicalTrials,NCT00193674,https://clinicaltrials.gov/search?id=%22NCT00193674%22
+3,120344,65336,ClinicalTrials,NCT01252732,https://clinicaltrials.gov/search?id=%22NCT01252732%22
+4,120345,62799,ClinicalTrials,NCT00691600,https://clinicaltrials.gov/search?id=%22NCT00691600%22
+5,120346,56009,ClinicalTrials,NCT02512536,https://clinicaltrials.gov/search?id=%22NCT02512536%22
+6,120347,64354,ClinicalTrials,NCT01688362,https://clinicaltrials.gov/search?id=%22NCT01688362%22
+7,120348,56118,ClinicalTrials,NCT00555139,https://clinicaltrials.gov/search?id=%22NCT00555139%22
+8,120349,71444,ClinicalTrials,NCT00191022,https://clinicaltrials.gov/search?id=%22NCT00191022%22
+9,120350,69825,ClinicalTrials,"NCT01093807,NCT01122251",https://clinicaltrials.gov/search?id=%22NCT01093807%22OR%22NCT01122251%22

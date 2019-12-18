@@ -1,0 +1,11 @@
+,protclasssyn_id,protein_class_id,protein_class_synonym,syn_type
+0,33666,1,Enzyme,CONCEPT_WIKI
+1,33667,1,Enzymes,CONCEPT_WIKI
+2,33668,1,Biocatalysts,CONCEPT_WIKI
+3,33670,1,Biocatalysts,UMLS
+4,33671,1,Enzymes,UMLS
+5,33672,1,ConceptWiki:c525bb08-30c7-4e6d-ad69-80c569766d12,CW_XREF
+6,33673,1,MESH:D004798,MESH_XREF
+7,33674,10,Oxidoreductases,CONCEPT_WIKI
+8,33675,10,Dehydrogenases,CONCEPT_WIKI
+9,33676,10,Reductases,CONCEPT_WIKI

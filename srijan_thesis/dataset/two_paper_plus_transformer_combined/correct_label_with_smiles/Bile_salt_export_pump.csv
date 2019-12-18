@@ -1,0 +1,13 @@
+,drug_name,drug_type,Smiles
+0,Bosentan,Bile_salt_export_pump-Inhibitor,COC1=CC=CC=C1OC2=C(NS(=O)(=O)C3=CC=C(C=C3)C(C)(C)C)N=C(N=C2OCCO)C4=NC=CC=N4
+1,Bosentan,Bile_salt_export_pump-Substrate,COC1=CC=CC=C1OC2=C(NS(=O)(=O)C3=CC=C(C=C3)C(C)(C)C)N=C(N=C2OCCO)C4=NC=CC=N4
+2,Chenodeoxycholic Acid,Bile_salt_export_pump-Inducer,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+3,Ciclosporin,Bile_salt_export_pump-Inhibitor,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)CC=CC)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@@H](CC(C)C)NC(=O)CN(C)C1=O)C(C)C
+4,Colchicine,Bile_salt_export_pump-Inducer,COC1=CC=C2C(=CC1=O)[C@H](CCC3=CC(OC)=C(OC)C(OC)=C23)NC(C)=O
+5,Estradiol,Bile_salt_export_pump-Substrate,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+6,Glibenclamide,Bile_salt_export_pump-Inhibitor,COC1=C(C=C(Cl)C=C1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)N[C@H]3CCCCC3
+7,Midecamycin,Bile_salt_export_pump-Inhibitor,CCC(=O)O[C@@H]1CC(=O)O[C@@H](C)CC=CC=C[C@@H](O)[C@H](C)C[C@H](CC=O)[C@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@H](OC(=O)CC)[C@@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H]1OC
+8,Pravastatin,Bile_salt_export_pump-Inhibitor,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12
+9,Pravastatin,Bile_salt_export_pump-Substrate,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12
+10,Rifamycin,Bile_salt_export_pump-Inhibitor,CO[C@H]1C=CO[C@]2(C)OC3=C(C2=O)C4=C(O)C=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+11,Troglitazone,Bile_salt_export_pump-Inducer,CC1=C(C)C2=C(CC[C@](C)(COC3=CC=C(C[C@@H]4SC(=O)NC4=O)C=C3)O2)C(C)=C1O

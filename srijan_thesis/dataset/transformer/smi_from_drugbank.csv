@@ -1,0 +1,56 @@
+,missing_drug_name,smi_from_drugbank
+0,Dinoprostone,CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1C\C=C/CCCC(O)=O
+1,Methyltestosterone,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+2,Eszopiclone,CN1CCN(CC1)C(=O)O[C@@H]1N(C(=O)C2=NC=CN=C12)C1=NC=C(Cl)C=C1
+3,Trichloroethylene,ClC=C(Cl)Cl
+4,Diethylcarbamazine,CCN(CC)C(=O)N1CCN(C)CC1
+5,Glucagon,neither_in_drugbank_nor_in_supercyp
+6,Aminobenzoic Acid,NC1=CC=C(C=C1)C(O)=O
+7,Bemiparin,neither_in_drugbank_nor_in_supercyp
+8,Cholic Acid,[H][C@@](C)(CCC(O)=O)[C@@]1([H])CC[C@@]2([H])[C@]3([H])[C@]([H])(O)C[C@]4([H])C[C@]([H])(O)CC[C@]4(C)[C@@]3([H])C[C@]([H])(O)[C@]12C
+9,Teicoplanin,neither_in_drugbank_nor_in_supercyp
+10,Azacitidine,NC1=NC(=O)N(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+11,Bendroflumethiazide,NS(=O)(=O)C1=CC2=C(NC(CC3=CC=CC=C3)NS2(=O)=O)C=C1C(F)(F)F
+12,Decitabine,NC1=NC(=O)N(C=N1)[C@H]1C[C@H](O)[C@@H](CO)O1
+13,Selenium Compounds,check_again
+14,Varenicline,[H][C@]12C[C@]([H])(CNC1)C1=CC3=NC=CN=C3C=C21
+15,Vorinostat,ONC(=O)CCCCCCC(=O)NC1=CC=CC=C1
+16,Atazanavir,COC(=O)N[C@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@@H](O)CN(CC1=CC=C(C=C1)C1=CC=CC=N1)NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)C(C)(C)C
+17,Dextropropoxyphene,CCC(=O)O[C@@](CC1=CC=CC=C1)([C@H](C)CN(C)C)C1=CC=CC=C1
+18,Glycyrrhizic Acid,[H][C@@]12C[C@](C)(CC[C@]1(C)CC[C@]1(C)C2=CC(=O)[C@]2([H])[C@@]3(C)CC[C@H](O[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O)C(O)=O)C(O)=O)C(C)(C)[C@]3([H])CC[C@@]12C)C(O)=O
+19,Cevimeline,CC1O[C@@]2(CS1)CN1CCC2CC1
+20,Cilostazol,O=C1CCC2=C(N1)C=CC(OCCCCC1=NN=NN1C1CCCCC1)=C2
+21,Cinacalcet,C[C@@H](NCCCC1=CC(=CC=C1)C(F)(F)F)C1=CC=CC2=CC=CC=C12
+22,Desvenlafaxine,CN(C)CC(C1=CC=C(O)C=C1)C1(O)CCCCC1
+23,Dexmedetomidine,C[C@H](C1=CNC=N1)C1=C(C)C(C)=CC=C1
+24,Duloxetine,CNCC[C@H](OC1=CC=CC2=CC=CC=C12)C1=CC=CS1
+25,Fesoterodine,CC(C)N(CC[C@H](C1=CC=CC=C1)C1=C(OC(=O)C(C)C)C=CC(CO)=C1)C(C)C
+26,Palonosetron,[H][C@]12CCCC3=C1C(=CC=C3)C(=O)N(C2)[C@@H]1CN2CCC1CC2
+27,Simvastatin And Ezetimibe,check_again
+28,Vernakalant,COC1=C(OC)C=C(CCO[C@@H]2CCCC[C@H]2N2CC[C@@H](O)C2)C=C1
+29,Thiamine (vit B1),CC1=NC(N)=C(C[N+]2=CSC(CCO)=C2C)C=N1
+30,Acriflavinium Chloride,neither_in_drugbank_nor_in_supercyp
+31,Arbekacin,NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O
+32,Clevidipine,CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC
+33,Sulfamethoxazole And Trimethoprim,check_again
+34,Dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1
+35,Erlotinib,COCCOC1=CC2=C(C=C1OCCOC)C(NC1=CC(=CC=C1)C#C)=NC=N2
+36,Eslicarbazepine,NC(=O)N1C2=C(C[C@H](O)C3=C1C=CC=C3)C=CC=C2
+37,Febuxostat,CC(C)COC1=C(C=C(C=C1)C1=NC(C)=C(S1)C(O)=O)C#N
+38,Mitiglinide,[H][C@@](CC(=O)N1C[C@@]2([H])CCCC[C@@]2([H])C1)(CC1=CC=CC=C1)C(O)=O
+39,Nilotinib,CC1=CN(C=N1)C1=CC(NC(=O)C2=CC=C(C)C(NC3=NC=CC(=N3)C3=CN=CC=C3)=C2)=CC(=C1)C(F)(F)F
+40,Pitavastatin,O[C@H](C[C@H](O)\C=C\C1=C(N=C2C=CC=CC2=C1C1=CC=C(F)C=C1)C1CC1)CC(O)=O
+41,Posaconazole,[H][C@@](C)(O)[C@]([H])(CC)N1N=CN(C1=O)C1=CC=C(C=C1)N1CCN(CC1)C1=CC=C(OC[C@]2([H])CO[C@](CN3C=NC=N3)(C2)C2=C(F)C=C(F)C=C2)C=C1
+42,Raltegravir,CN1C(=O)C(O)=C(N=C1C(C)(C)NC(=O)C1=NN=C(C)O1)C(=O)NCC1=CC=C(F)C=C1
+43,Sorafenib,CNC(=O)C1=NC=CC(OC2=CC=C(NC(=O)NC3=CC(=C(Cl)C=C3)C(F)(F)F)C=C2)=C1
+44,Fingolimod,CCCCCCCCC1=CC=C(CCC(N)(CO)CO)C=C1
+45,Pirfenidone,CC1=CN(C(=O)C=C1)C1=CC=CC=C1
+46,Retigabine,CCOC(=O)NC1=C(N)C=C(NCC2=CC=C(F)C=C2)C=C1
+47,Dihydroergotamine,[H][C@@]12CCCN1C(=O)[C@H](CC1=CC=CC=C1)N1C(=O)[C@](C)(NC(=O)[C@H]3CN(C)[C@]4([H])CC5=CNC6=CC=CC(=C56)[C@@]4([H])C3)O[C@@]21O
+48,Hydrocortisone Aceponate,[H][C@@]12CC[C@](OC(=O)CC)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+49,Ivabradine,COC1=C(OC)C=C2[C@@H](CN(C)CCCN3CCC4=CC(OC)=C(OC)C=C4CC3=O)CC2=C1
+50,Levothyroxine Sodium,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O
+51,Pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=CC=NC(NC2=CC=C(C)C(=C2)S(N)(=O)=O)=N1
+52,Pimecrolimus,[H][C@]1(CC[C@H](Cl)[C@@H](C1)OC)\C=C(/C)[C@@]1([H])OC(=O)[C@]2([H])CCCCN2C(=O)C(=O)[C@]2(O)O[C@@]([H])([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC)C(=O)C[C@H](O)[C@H]1C)OC
+53,Rufinamide,NC(=O)C1=CN(CC2=C(F)C=CC=C2F)N=N1
+54,Saxagliptin,N[C@H](C(=O)N1[C@H]2C[C@H]2C[C@H]1C#N)C12CC3CC(CC(O)(C3)C1)C2

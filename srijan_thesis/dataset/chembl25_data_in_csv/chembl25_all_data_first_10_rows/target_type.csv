@@ -1,0 +1,11 @@
+,target_type,target_desc,parent_type
+0,ADMET,"Target is not applicable for an ADMET assay (e.g., physchem property)",UNDEFINED
+1,CELL-LINE,Target is a specific cell-line,NON-MOLECULAR
+2,CHIMERIC PROTEIN,"Target is a fusion of two different proteins, either a synthetic construct or naturally occurring fusion protein",PROTEIN
+3,LIPID,Target is a lipid,MOLECULAR
+4,MACROMOLECULE,"Target is a biological macromolecule (e.g., glycoproteins, hemozoin, hydroxyapatite)",MOLECULAR
+5,METAL,"Target is a metal e.g., iron",MOLECULAR
+6,MOLECULAR,"Target has been identified as a defined molecular entity (e.g., protein or nucleic acid)",
+7,NO TARGET,"Target is not applicable for a screening assay (e.g., negative control/counterscreen)",UNDEFINED
+8,NON-MOLECULAR,"Target has not been defined at a molecular level, only the non-molecular entity which is affected (e.g., organism, cell line etc)",
+9,NUCLEIC-ACID,"Target is DNA, RNA or PNA",MOLECULAR

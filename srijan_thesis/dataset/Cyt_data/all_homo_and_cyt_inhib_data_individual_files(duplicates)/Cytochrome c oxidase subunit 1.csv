@@ -1,0 +1,16 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,179886,CHEMBL272342,CHEMBL999114,438618,,Homo sapiens,H,,,,Activity,Not Active,42185,101471,PROTEIN,SINGLE PROTEIN,8,Cytochrome c oxidase subunit 1
+1,179887,CHEMBL404529,CHEMBL999114,438579,,Homo sapiens,H,,,,Activity,Not Active,42185,101471,PROTEIN,SINGLE PROTEIN,8,Cytochrome c oxidase subunit 1
+2,179888,CHEMBL1774043,CHEMBL1775456,1145086,,Homo sapiens,H,=,130.0,nM,IC50,,57595,101471,PROTEIN,SINGLE PROTEIN,8,Cytochrome c oxidase subunit 1
+3,179889,CHEMBL1773877,CHEMBL1775456,1144919,,Homo sapiens,H,=,240.0,nM,IC50,,57595,101471,PROTEIN,SINGLE PROTEIN,8,Cytochrome c oxidase subunit 1
+4,179890,CHEMBL56367,CHEMBL2340535,85553,Homo sapiens,Homo sapiens,D,=,60.2,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+5,179891,CHEMBL2336518,CHEMBL2340535,1526188,Homo sapiens,Homo sapiens,D,=,4.1,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+6,179892,CHEMBL2336517,CHEMBL2340535,1526187,Homo sapiens,Homo sapiens,D,=,3.8,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+7,179893,CHEMBL2336515,CHEMBL2340535,1526185,Homo sapiens,Homo sapiens,D,=,2.1,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+8,179894,CHEMBL2336943,CHEMBL2340535,1526618,Homo sapiens,Homo sapiens,D,=,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+9,179895,CHEMBL2336942,CHEMBL2340535,1526617,Homo sapiens,Homo sapiens,D,<,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+10,179896,CHEMBL2336521,CHEMBL2340535,1526191,Homo sapiens,Homo sapiens,D,<,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+11,179897,CHEMBL2336520,CHEMBL2340535,1526190,Homo sapiens,Homo sapiens,D,<,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+12,179898,CHEMBL2336519,CHEMBL2340535,1526189,Homo sapiens,Homo sapiens,D,<,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+13,179899,CHEMBL517107,CHEMBL2340535,471337,Homo sapiens,Homo sapiens,D,<,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1
+14,179900,CHEMBL2336516,CHEMBL2340535,1526186,Homo sapiens,Homo sapiens,D,<,1.0,%,Inhibition,,72703,101471,PROTEIN,SINGLE PROTEIN,9,Cytochrome c oxidase subunit 1

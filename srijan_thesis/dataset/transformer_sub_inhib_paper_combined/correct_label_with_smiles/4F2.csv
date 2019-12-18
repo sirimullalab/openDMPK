@@ -1,0 +1,7 @@
+,drug_name,drug_type,Smiles
+0,Dinoprostone,4F2-Substrate,CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1C\C=C/CCCC(O)=O
+1,Ebastine,4F2-Substrate,CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CC[C@H](CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4
+2,Fingolimod,4F2-Substrate,CCCCCCCCC1=CC=C(CCC(N)(CO)CO)C=C1
+3,Ketoconazole,4F2-Inhibitor,CC(=O)N1CCN(CC1)C2=CC=C(OC[C@@H]3CO[C@](CN4C=CN=C4)(O3)C5=C(Cl)C=C(Cl)C=C5)C=C2
+4,Retinol (vit A),4F2-Inhibitor,CC(=C/CO)C=CC=C(C)C=CC1=C(C)CCCC1(C)C
+5,Tocopherol (vit E),4F2-Substrate,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(O1)C(C)=C(C)C(O)=C2

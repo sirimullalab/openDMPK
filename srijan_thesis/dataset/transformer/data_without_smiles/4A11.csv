@@ -1,0 +1,11 @@
+,drug_name,drug_type
+0,Ciprofibrate,Inducer
+1,Clofibrate,"Substrate,Inducer"
+2,Dexamethasone,Inducer
+3,Estrone,Substrate
+4,Ethanol,Inducer
+5,Lansoprazole,Inducer
+6,"Mercury, Metallic",Inhibitor
+7,Phenobarbital,Inducer
+8,Rifampicin,Inducer
+9,Valproic Acid,Inducer

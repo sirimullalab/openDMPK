@@ -1,0 +1,7 @@
+,assay_type,assay_desc
+0,A,ADME
+1,B,Binding
+2,F,Functional
+3,P,Physicochemical
+4,T,Toxicity
+5,U,Unassigned

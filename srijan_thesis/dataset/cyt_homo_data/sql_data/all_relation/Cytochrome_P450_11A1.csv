@@ -1,0 +1,2 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,smiles
+0,CHEMBL488,CHEMBL696209,6317,Cytochrome P450 11A1,Cricetulus griseus,Homo sapiens,H,=,80000.0,nM,IC50,,10896,32,PROTEIN,SINGLE PROTEIN,8,CCC1(CCC(=O)NC1=O)c2ccc(N)cc2

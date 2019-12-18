@@ -1,0 +1,5 @@
+,drug_name,drug_type,Smiles
+0,Enflurane,CP2F1-Substrate,FC(F)OC(F)(F)[C@H](F)Cl
+1,Ketoconazole,CP2F1-Inhibitor,CC(=O)N1CCN(CC1)C2=CC=C(OC[C@@H]3CO[C@](CN4C=CN=C4)(O3)C5=C(Cl)C=C(Cl)C=C5)C=C2
+2,Phenol,CP2F1-Substrate,OC1=CC=CC=C1
+3,Rifampicin,CP2F1-Inducer,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C

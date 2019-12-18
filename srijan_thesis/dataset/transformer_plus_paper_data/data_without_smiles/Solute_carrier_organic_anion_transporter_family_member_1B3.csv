@@ -1,0 +1,20 @@
+,drug_name,drug_type
+0,Cefmetazole,Substrate
+1,Cefoperazone,Substrate
+2,Ceftriaxone,Substrate
+3,Dactinomycin,Inhibitor
+4,Diclofenac,Inhibitor
+5,Docetaxel,"Inhibitor,Substrate"
+6,Estradiol,Substrate
+7,Estrone,Substrate
+8,Fluvastatin,Substrate
+9,Hydroxycarbamide,Substrate
+10,Methotrexate,Substrate
+11,Mitoxantrone,Inhibitor
+12,Paclitaxel,"Substrate,Inhibitor"
+13,Pancreozymin (cholecystokinin),Substrate
+14,Rifampicin,Inhibitor
+15,Sulfobromophthalein,Substrate
+16,Technetium (99mTc) Mebrofenin,Substrate
+17,Telithromycin,Inhibitor
+18,Testosterone,Substrate

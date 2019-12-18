@@ -1,0 +1,44 @@
+,drug_name,drug_type,Smiles
+0,Acriflavinium Chloride,1B1-Inducer,Cl.[Cl-].C[n+]1c2cc(N)ccc2cc3ccc(N)cc13.Nc4ccc5cc6ccc(N)cc6nc5c4
+1,Amodiaquine,1B1-Substrate,CCN(CC)CC1=C(O)C=CC(NC2=C3C=CC(Cl)=CC3=NC=C2)=C1
+2,Arsenic Trioxide,1B1-Inhibitor,O=[As]1=[As](=O)O1
+3,Biotin,1B1-Inducer,OC(=O)CCCC[C@@H]1SC[C@H]2NC(=O)N[C@@H]12
+4,Caffeine,1B1-Substrate,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+5,Clozapine,1B1-Inducer,CN1CCN(CC1)C2=NC3=C(NC4=C2C=CC=C4)C=CC(Cl)=C3
+6,Daunorubicin,1B1-Inhibitor,COC1=C2C(=O)C3=C(O)C4=C(C[C@](O)(C[C@@H]4O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C(C)=O)C(O)=C3C(=O)C2=CC=C1
+7,Dibutylphthalate,1B1-Substrate,CCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCC
+8,Diosmectite,1B1-Inhibitor,COC1=C(O)C=C(C=C1)C2=CC(=O)C3=C(O)C=C(O)C=C3O2
+9,Docetaxel,1B1-Inducer,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)C6=CC=CC=C6)C(C)=C([C@@H](O)C3=O)C5(C)C
+10,Docetaxel,1B1-Inhibitor,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)C6=CC=CC=C6)C(C)=C([C@@H](O)C3=O)C5(C)C
+11,Docetaxel,1B1-Substrate,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)C6=CC=CC=C6)C(C)=C([C@@H](O)C3=O)C5(C)C
+12,Doxorubicin,1B1-Inhibitor,COC1=CC=CC2=C1C(=O)C3=C(O)C4=C(C[C@](O)(C[C@@H]4O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C(=O)CO)C(O)=C3C2=O
+13,Doxycycline,1B1-Inhibitor,C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C2C(=O)C4=C(O)C=CC=C14
+14,Erythromycin,1B1-Substrate,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@H]3O[C@@H](C)C[C@H]([C@@H]3O)N(C)C)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O
+15,Estradiol,1B1-Substrate,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+16,Estrone,1B1-Substrate,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CCC2=O
+17,Flutamide,1B1-Inhibitor,CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+18,Flutamide,1B1-Substrate,CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+19,Hydrocortisone,1B1-Inhibitor,C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)C[C@H](O)[C@H]23
+20,Hydrogen Peroxide,1B1-Substrate,OO
+21,Ketoconazole,1B1-Inhibitor,CC(=O)N1CCN(CC1)C2=CC=C(OC[C@@H]3CO[C@](CN4C=CN=C4)(O3)C5=C(Cl)C=C(Cl)C=C5)C=C2
+22,Lansoprazole,1B1-Inducer,CC1=C(CS(=O)C2=NC3=C(N2)C=CC=C3)N=CC=C1OCC(F)(F)F
+23,Melatonin,1B1-Substrate,COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
+24,Metharbital,1B1-Inducer,CCC1(CC)C(=O)NC(=O)N(C)C1=O
+25,Mitobronitol,1B1-Inducer,O[C@H](CBr)[C@@H](O)[C@H](O)[C@H](O)CBr
+26,Mitoxantrone,1B1-Inhibitor,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C3=C(O)C=CC(O)=C3C2=O
+27,Omeprazole,1B1-Inducer,COC1=CC2=C(NC(=N2)S(=O)CC3=C(C)C(OC)=C(C)C=N3)C=C1
+28,Oxaliplatin,1B1-Substrate,N[C@@H]1CCCC[C@H]1N
+29,Oxolamine,1B1-Inducer,CCN(CC)CCC1=NC(=NO1)C2=CC=CC=C2
+30,Paclitaxel,1B1-Inhibitor,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C6=CC=CC=C6)C7=CC=CC=C7)C(C)=C1C5(C)C
+31,Phenobarbital,1B1-Inducer,CC[C@@]1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2
+32,Primaquine,1B1-Inducer,COC1=CC(N[C@H](C)CCCN)=C2N=CC=CC2=C1
+33,Procarbazine,1B1-Substrate,CNNCC1=CC=C(C=C1)C(=O)NC(C)C
+34,Progesterone,1B1-Substrate,CC(=O)[C@@H]1CC[C@@H]2[C@H]3CCC4=CC(=O)CC[C@@]4(C)[C@@H]3CC[C@]12C
+35,Retinol (vit A),1B1-Substrate,CC(=C/CO)C=CC=C(C)C=CC1=C(C)CCCC1(C)C
+36,Rifampicin,1B1-Inducer,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+37,Rosuvastatin,1B1-Substrate,CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1C=C[C@H](O)C[C@@H](O)CC(O)=O)N(C)S(C)(=O)=O
+38,Salicylamide,1B1-Inhibitor,NC(=O)C1=C(O)C=CC=C1
+39,Tamoxifen,1B1-Inhibitor,CCC(C1=CC=CC=C1)=C(/C2=CC=CC=C2)C3=CC=C(OCCN(C)C)C=C3
+40,Testosterone,1B1-Substrate,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+41,Theophylline,1B1-Substrate,CN1C(=O)N(C)C2=C(NC=N2)C1=O
+42,Tryptophan,1B1-Inducer,N[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O

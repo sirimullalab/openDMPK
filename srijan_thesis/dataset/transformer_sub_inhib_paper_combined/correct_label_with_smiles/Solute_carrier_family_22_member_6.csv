@@ -1,0 +1,19 @@
+,drug_name,drug_type,Smiles
+0,Aminohippuric Acid,Solute_carrier_family_22_member_6-Substrate,NC1=CC=C(C=C1)C(=O)NCC(O)=O
+1,Amoxicillin,Solute_carrier_family_22_member_6-Substrate,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(O)=O
+2,Amoxicillin,Solute_carrier_family_22_member_6-Inhibitor,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(O)=O
+3,Cefaclor,Solute_carrier_family_22_member_6-Inhibitor,N[C@@H](C(=O)N[C@H]1[C@H]2SCC(Cl)=C(N2C1=O)C(O)=O)C3=CC=CC=C3
+4,Cefazolin,Solute_carrier_family_22_member_6-Substrate,CC1=NN=C(SCC2=C(N3[C@H](SC2)[C@H](NC(=O)CN4C=NN=N4)C3=O)C(O)=O)S1
+5,Cidofovir,Solute_carrier_family_22_member_6-Substrate,NC1=NC(=O)N(C[C@@H](CO)OCP(O)(O)=O)C=C1
+6,Cimetidine,Solute_carrier_family_22_member_6-Inhibitor,CNC(NCCSCC1=C(C)NC=N1)=N/C#N
+7,Famotidine,Solute_carrier_family_22_member_6-Substrate,NC(N)=NC1=NC(CSCCC(N)=N/S(N)(=O)=O)=CS1
+8,Fluorescein,Solute_carrier_family_22_member_6-Substrate,OC1=CC2=C(C=C1)[C@]3(OC(=O)C4=C3C=CC=C4)C5=C(O2)C=C(O)C=C5
+9,Furosemide,Solute_carrier_family_22_member_6-Inhibitor,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl
+10,Indometacin,Solute_carrier_family_22_member_6-Inhibitor,COC1=CC2=C(C=C1)N(C(C)=C2CC(O)=O)C(=O)C3=CC=C(Cl)C=C3
+11,Lumiracoxib,Solute_carrier_family_22_member_6-Inhibitor,CC1=CC(CC(O)=O)=C(NC2=C(Cl)C=CC=C2F)C=C1
+12,Meropenem,Solute_carrier_family_22_member_6-Substrate,C[C@@H](O)[C@@H]1[C@H]2[C@@H](C)C(S[C@H]3CC[C@H](N3)C(=O)N(C)C)=C(N2C1=O)C(O)=O
+13,Methotrexate,Solute_carrier_family_22_member_6-Substrate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+14,Mycophenolic Acid,Solute_carrier_family_22_member_6-Substrate,COC1=C(C)C2=C(C(O)=C1CC=C(/C)CCC(O)=O)C(=O)OC2
+15,Piroxicam,Solute_carrier_family_22_member_6-Inhibitor,CN1C(C(=O)NC2=CC=CC=N2)=C(O)C3=C(C=CC=C3)S1(=O)=O
+16,Probenecid,Solute_carrier_family_22_member_6-Inhibitor,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O
+17,Simvastatin,Solute_carrier_family_22_member_6-Inhibitor,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12

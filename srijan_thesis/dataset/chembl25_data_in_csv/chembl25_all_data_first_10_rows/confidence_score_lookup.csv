@@ -1,0 +1,11 @@
+,confidence_score,description,target_mapping
+0,0,Default value - Target unknown or has yet to be assigned,Unassigned
+1,1,Target assigned is non-molecular,Non-molecular
+2,2,Target assigned is subcellular fraction,Subcellular fraction
+3,3,Target assigned is molecular non-protein target,Molecular (non-protein)
+4,4,Multiple homologous protein targets may be assigned,Multiple homologous proteins
+5,5,Multiple direct protein targets may be assigned,Multiple proteins
+6,6,Homologous protein complex subunits assigned,Homologous protein complex
+7,7,Direct protein complex subunits assigned,Protein complex
+8,8,Homologous single protein target assigned,Homologous protein
+9,9,Direct single protein target assigned,Protein

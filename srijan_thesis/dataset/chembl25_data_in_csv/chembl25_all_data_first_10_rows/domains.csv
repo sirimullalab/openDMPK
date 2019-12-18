@@ -1,0 +1,11 @@
+,domain_id,domain_type,source_domain_id,domain_name,domain_description
+0,2627,Pfam-A,PF00001,7tm_1,
+1,2628,Pfam-A,PF00002,7tm_2,
+2,2629,Pfam-A,PF00003,7tm_3,
+3,2630,Pfam-A,PF00004,AAA,
+4,2631,Pfam-A,PF00005,ABC_tran,
+5,2632,Pfam-A,PF00006,ATP-synt_ab,
+6,2633,Pfam-A,PF00008,EGF,
+7,2634,Pfam-A,PF00009,GTP_EFTU,
+8,2635,Pfam-A,PF00010,HLH,
+9,2636,Pfam-A,PF00011,HSP20,

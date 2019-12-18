@@ -1,0 +1,6 @@
+,drug_name,drug_type
+0,Cefalexin,Substrate
+1,Chloroquine,"Inhibitor,Substrate"
+2,Mephenoxalone,Substrate
+3,Metformin,Substrate
+4,Trimethoprim,Inhibitor

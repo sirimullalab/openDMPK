@@ -1,0 +1,12 @@
+,drug_name,drug_type,Smiles
+0,Bumetanide,Solute_carrier_family_12_member_1-Inhibitor,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O
+1,Bumetanide,Solute_carrier_family_12_member_1-Substrate,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O
+2,Desmopressin,Solute_carrier_family_12_member_1-Inducer,NC(=N)NCCC[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H]2CSSCCC(=O)N[C@H](CC3=CC=C(O)C=C3)C(=O)N[C@H](CC4=CC=CC=C4)C(=O)N[C@H](CCC(N)=O)C(=O)N[C@H](CC(N)=O)C(=O)N2)C(=O)NCC(N)=O
+3,Furosemide,Solute_carrier_family_12_member_1-Inducer,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl
+4,Hydrochlorothiazide,Solute_carrier_family_12_member_1-Inducer,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1Cl
+5,Lithium,Solute_carrier_family_12_member_1-Inducer,[Li]
+6,Nitric Oxide,Solute_carrier_family_12_member_1-Inhibitor,N=O
+7,Potassium Chloride,Solute_carrier_family_12_member_1-Substrate,[Cl-].[K+]
+8,Sodium Chloride,Solute_carrier_family_12_member_1-Inducer,[Na+].[Cl-]
+9,Sodium Chloride,Solute_carrier_family_12_member_1-Substrate,[Na+].[Cl-]
+10,Vasopressin,Solute_carrier_family_12_member_1-Inducer,CC[C@H](C)[C@H]1NC(=O)[C@@H](CC2=CC=C(O)C=C2)NC(=O)[C@@H](N)CSSC[C@@H](NC(=O)[C@@H](CC(N)=O)NC(=O)[C@@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(N)=O

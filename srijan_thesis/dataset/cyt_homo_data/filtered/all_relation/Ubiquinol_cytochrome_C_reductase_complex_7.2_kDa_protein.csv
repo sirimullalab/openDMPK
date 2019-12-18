@@ -1,0 +1,2 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,Smiles,-log10(M) Values,Label
+0,CHEMBL10118,CHEMBL663989,6738,Ubiquinol-cytochrome C reductase complex 7.2 kDa protein,,Homo sapiens,H,,,,Activity,Active,3670,10314,PROTEIN,SINGLE PROTEIN,8,C[C@]1(OC(=O)N(Nc2ccccc2)C1=O)c3ccc(Oc4ccccc4)cc3,-1,active

@@ -1,0 +1,7 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,0,CHEMBL2203812,CHEMBL2214315,1443420,Homo sapiens,Homo sapiens,D,=,23900.0,nM,EC50,,66915,117061,PROTEIN,PROTEIN COMPLEX,7,Apoptotic protease-activating factor 1/Caspase-3/Caspase-9/Cytochrome c
+1,1,CHEMBL2203813,CHEMBL2214315,1443421,Homo sapiens,Homo sapiens,D,=,29900.0,nM,EC50,,66915,117061,PROTEIN,PROTEIN COMPLEX,7,Apoptotic protease-activating factor 1/Caspase-3/Caspase-9/Cytochrome c
+2,2,CHEMBL2203814,CHEMBL2214315,1443422,Homo sapiens,Homo sapiens,D,=,17000.0,nM,EC50,,66915,117061,PROTEIN,PROTEIN COMPLEX,7,Apoptotic protease-activating factor 1/Caspase-3/Caspase-9/Cytochrome c
+3,3,CHEMBL2203815,CHEMBL2214315,1443423,Homo sapiens,Homo sapiens,D,=,14000.0,nM,EC50,,66915,117061,PROTEIN,PROTEIN COMPLEX,7,Apoptotic protease-activating factor 1/Caspase-3/Caspase-9/Cytochrome c
+4,4,CHEMBL2203816,CHEMBL2214315,1443424,Homo sapiens,Homo sapiens,D,=,14400.0,nM,EC50,,66915,117061,PROTEIN,PROTEIN COMPLEX,7,Apoptotic protease-activating factor 1/Caspase-3/Caspase-9/Cytochrome c
+5,5,CHEMBL252122,CHEMBL2214315,418704,Homo sapiens,Homo sapiens,D,=,16800.0,nM,EC50,,66915,117061,PROTEIN,PROTEIN COMPLEX,7,Apoptotic protease-activating factor 1/Caspase-3/Caspase-9/Cytochrome c

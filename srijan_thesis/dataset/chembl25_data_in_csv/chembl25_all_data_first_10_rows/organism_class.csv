@@ -1,0 +1,11 @@
+,oc_id,tax_id,l1,l2,l3
+0,1,10030,Eukaryotes,Mammalia,Rodentia
+1,2,9593,Eukaryotes,Mammalia,Primates
+2,3,470,Bacteria,Gram-Negative,Acinetobacter
+3,4,5475,Fungi,Ascomycota,Saccharomycetales
+4,5,5660,Eukaryotes,Kinetoplastida,Leishmania
+5,6,5691,Eukaryotes,Kinetoplastida,Trypanosoma
+6,7,9606,Eukaryotes,Mammalia,Primates
+7,8,237895,Eukaryotes,Apicomplexa,Cryptosporidium
+8,9,5807,Eukaryotes,Apicomplexa,Cryptosporidium
+9,10,5800,Eukaryotes,Apicomplexa,Eimeria

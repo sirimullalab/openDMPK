@@ -1,0 +1,17 @@
+,drug_name,drug_type,Smiles
+0,Adenosine,Inducer,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=NC=N1
+1,Bumetanide,Inhibitor,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O
+2,Cisplatin,Inducer,N[Pt](N)(Cl)Cl
+3,Estradiol,Inducer,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+4,Furosemide,Inhibitor,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl
+5,Glibenclamide,Inhibitor,COC1=C(C=C(Cl)C=C1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)N[C@H]3CCCCC3
+6,Kanamycin,Inhibitor,NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+7,Lithium,Inducer,[Li]
+8,Methoxamine,Inducer,COC1=CC([C@@H](O)[C@@H](C)N)=C(OC)C=C1
+9,Nitric Oxide,Inhibitor,N=O
+10,Nitroprusside,Inhibitor,O=N[Fe](C#N)(C#N)(C#N)(C#N)C#N
+11,Oxygen,Inducer,O=O
+12,Oxytocin,Inducer,CC[C@H](C)[C@H]1NC(=O)[C@@H](CC2=CC=C(O)C=C2)NC(=O)[C@@H](N)CSSC[C@@H](NC(=O)[C@@H](CC(N)=O)NC(=O)[C@@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O
+13,Phenylephrine,Inducer,CNC[C@H](O)C1=CC(O)=CC=C1
+14,Potassium Chloride,Substrate,[Cl-].[K+]
+15,Sodium Chloride,Substrate,[Na+].[Cl-]

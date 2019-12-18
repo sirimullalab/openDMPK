@@ -1,0 +1,22 @@
+,drug_name,drug_type,Smiles
+0,Cefmetazole,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CO[C@]1(NC(=O)CSCC#N)[C@H]2SCC(CSC3=NN=NN3C)=C(N2C1=O)C(O)=O
+1,Cefoperazone,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CCN1CCN(C(=O)N[C@@H](C(=O)N[C@H]2[C@H]3SCC(CSC4=NN=NN4C)=C(N3C2=O)C(O)=O)C5=CC=C(O)C=C5)C(=O)C1=O
+2,Ceftriaxone,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CON=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NC(=O)C(O)=NN3C)=C(N2C1=O)C(O)=O)C4=CSC(N)=N4
+3,Dactinomycin,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,CC(C)[C@@H]1NC(=O)[C@H](NC(=O)C2=C3N=C4C(OC3=C(C)C=C2)=C(C)C(=O)C(N)=C4C(=O)N[C@@H]5[C@H](C)OC(=O)[C@@H](C(C)C)N(C)C(=O)CN(C)C(=O)[C@H]6CCCN6C(=O)[C@@H](NC5=O)C(C)C)[C@H](C)OC(=O)[C@@H](C(C)C)N(C)C(=O)CN(C)C(=O)[C@H]7CCCN7C1=O
+4,Diclofenac,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,OC(=O)CC1=CC=CC=C1NC2=C(Cl)C=CC=C2Cl
+5,Docetaxel,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)C6=CC=CC=C6)C(C)=C([C@@H](O)C3=O)C5(C)C
+6,Docetaxel,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]3(C)[C@@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)C6=CC=CC=C6)C(C)=C([C@@H](O)C3=O)C5(C)C
+7,Estradiol,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+8,Estrone,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CCC2=O
+9,Fluvastatin,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CC(C)N1C2=C(C=CC=C2)C(C3=CC=C(F)C=C3)=C1C=C[C@H](O)C[C@H](O)CC(O)=O
+10,Hydroxycarbamide,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,NC(=O)NO
+11,Methotrexate,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+12,Mitoxantrone,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C3=C(O)C=CC(O)=C3C2=O
+13,Paclitaxel,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C6=CC=CC=C6)C7=CC=CC=C7)C(C)=C1C5(C)C
+14,Paclitaxel,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C6=CC=CC=C6)C7=CC=CC=C7)C(C)=C1C5(C)C
+15,Pancreozymin (cholecystokinin),Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CC[C@H](C)[C@@H](NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CO)NC(=O)[C@H]2CCCN2C(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCCNC(N)=N)NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H]3CCCN3C(=O)[C@H](C)NC(=O)[C@@H](N)CCCCN)[C@H](C)CC)C(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@H](C(=O)N[C@@H](CCSC)C(=O)NCC(=O)N[C@@H](CC4=CNC5=C4C=CC=C5)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC6=CC=CC=C6)C(N)=O)C7=CC=C(OS(O)(=O)=O)C=C7
+16,Rifampicin,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+17,Sulfobromophthalein,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,OC1=C(C=C(C=C1)[C@@]2(OC(=O)C3=C(Br)C(Br)=C(Br)C(Br)=C23)C4=CC(=C(O)C=C4)S(O)(=O)=O)S(O)(=O)=O
+18,Technetium (99mTc) Mebrofenin,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CC1=C(Br)C(C)=C(NC(=O)CN(CC(O)=O)CC(O)=O)C(C)=C1
+19,Telithromycin,Solute_carrier_organic_anion_transporter_family_member_1B3-Inhibitor,CC[C@H]1OC(=O)[C@H](C)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@@](C)(C[C@@H](C)C(=O)[C@H](C)[C@H]3N(CCCCN4C=NC(=C4)C5=CC=CN=C5)C(=O)O[C@]13C)OC
+20,Testosterone,Solute_carrier_organic_anion_transporter_family_member_1B3-Substrate,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C

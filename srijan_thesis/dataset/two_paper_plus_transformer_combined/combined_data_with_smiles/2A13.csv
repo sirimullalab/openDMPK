@@ -1,0 +1,7 @@
+,drug_name,drug_type,Smiles
+0,Cocaine,Inducer,COC(=O)[C@H]1[C@H](C[C@H]2CC[C@@H]1N2C)OC(=O)C3=CC=CC=C3
+1,Methoxsalen,Inhibitor,COC1=C2OC(=O)C=CC2=CC3=C1OC=C3
+2,Nicotine,Substrate,CN1CCC[C@H]1C2=CC=CN=C2
+3,Phenacetin,Substrate,CCOC1=CC=C(NC(C)=O)C=C1
+4,Rifampicin,Inducer,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+5,Testosterone,Substrate,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C

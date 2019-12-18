@@ -1,0 +1,11 @@
+,go_id,parent_go_id,pref_name,class_level,aspect,path
+0,GO:0000003,GO:0008150,reproduction,1,P,biological_process  reproduction
+1,GO:0000149,GO:0005515,SNARE binding,2,F,molecular_function  protein binding  SNARE binding
+2,GO:0000166,GO:0003674,nucleotide binding,1,F,molecular_function  nucleotide binding
+3,GO:0000215,GO:0016772,tRNA 2'-phosphotransferase activity,4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  tRNA 2'-phosphotransferase activity"
+4,GO:0000228,GO:0005694,nuclear chromosome,3,C,cellular_component  organelle  chromosome  nuclear chromosome
+5,GO:0000229,GO:0005694,cytoplasmic chromosome,3,C,cellular_component  organelle  chromosome  cytoplasmic chromosome
+6,GO:0000902,GO:0008150,cell morphogenesis,1,P,biological_process  cell morphogenesis
+7,GO:0000988,GO:0003674,protein binding transcription factor activity,1,F,molecular_function  protein binding transcription factor activity
+8,GO:0001071,GO:0003674,nucleic acid binding transcription factor activity,1,F,molecular_function  nucleic acid binding transcription factor activity
+9,GO:0001515,GO:0005102,opioid peptide activity,3,F,molecular_function  protein binding  receptor binding  opioid peptide activity

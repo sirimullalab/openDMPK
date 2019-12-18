@@ -1,0 +1,8 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,180280,CHEMBL218394,CHEMBL3541895,360720,Homo sapiens,Homo sapiens,D,,,,Compound recovery,metabolite_not_detected,92054,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12
+1,180281,CHEMBL3527530,CHEMBL3532909,1925238,Homo sapiens,Homo sapiens,D,=,1.79,%,Compound recovery,,92030,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12
+2,180282,CHEMBL3527528,CHEMBL3532909,1925236,Homo sapiens,Homo sapiens,D,=,1.19,%,Compound recovery,,92030,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12
+3,180283,CHEMBL3526818,CHEMBL3535849,1924519,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_not_detected,92030,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12
+4,180284,CHEMBL3526818,CHEMBL3533002,1924519,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,92030,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12
+5,180285,CHEMBL3542381,CHEMBL3531668,1925508,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,92051,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12
+6,180286,CHEMBL3542336,CHEMBL3531396,1925463,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,92051,109678,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4F12

@@ -1,0 +1,11 @@
+,alert_id,alert_set_id,alert_name,smarts
+0,1,1,R1 Reactive alkyl halides,"[Br,Cl,I][CX4;CH,CH2]"
+1,2,1,R2 Acid halides,"[S,C](=[O,S])[F,Br,Cl,I]"
+2,3,1,R3 Carbazides,O=CN=[N+]=[N-]
+3,4,1,R4 Sulphate esters,"COS(=O)O[C,c]"
+4,5,1,R5 Sulphonates,"COS(=O)(=O)[C,c]"
+5,6,1,R6 Acid anhydrides,C(=O)OC(=O)
+6,7,1,R7 Peroxides,OO
+7,8,1,R8 Pentafluorophenyl esters,C(=O)Oc1c(F)c(F)c(F)c(F)c1(F)
+8,9,1,R9 Paranitrophenyl esters,C(=O)Oc1ccc(N(=O)~[OX1])cc1
+9,10,1,R10 esters of HOBT,C(=O)Onnn

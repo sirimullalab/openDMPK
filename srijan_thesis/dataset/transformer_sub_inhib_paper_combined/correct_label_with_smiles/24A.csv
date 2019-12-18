@@ -1,0 +1,5 @@
+,drug_name,drug_type,Smiles
+0,Calcifediol,24A-Substrate,C[C@H](CCCC(C)(C)O)[C@H]1CC[C@H]2C(CCC[C@]12C)=CC=C3C[C@H](O)CCC3=C
+1,Calcitriol,24A-Inducer,C[C@H](CCCC(C)(C)O)[C@H]1CC[C@H]2C(CCC[C@]12C)=CC=C3C[C@@H](O)C[C@H](O)C3=C
+2,Calcitriol,24A-Substrate,C[C@H](CCCC(C)(C)O)[C@H]1CC[C@H]2C(CCC[C@]12C)=CC=C3C[C@@H](O)C[C@H](O)C3=C
+3,Teriparatide,24A-Inhibitor,CC[C@H](C)[C@@H](NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@H](NC(=O)[C@@H](N)CO)C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC2=CNC=N2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC3=CNC4=C3C=CC=C4)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC5=CNC=N5)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC6=CC=CC=C6)C(O)=O

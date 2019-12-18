@@ -1,0 +1,11 @@
+,as_id,rgid,smid,type,relation,value,units,text_value,standard_type,standard_relation,standard_value,standard_units,standard_text_value,comments
+0,1,1,1012613,"Liver_Deposit, glycogen (Peripheral)",,,,slight,"Liver_Deposit, glycogen (Peripheral)",,,,slight,SAMPLE_ID: 0698011; SP_FLG: true; BARCODE: No ChipData
+1,2,2,1012614,"Liver_Deposit, glycogen (Peripheral)",,,,slight,"Liver_Deposit, glycogen (Peripheral)",,,,slight,SAMPLE_ID: 0698025; SP_FLG: true; BARCODE: No ChipData
+2,3,3,1012615,"Liver_Degeneration, fatty (Peripheral)",,,,slight,"Liver_Degeneration, fatty (Peripheral)",,,,slight,SAMPLE_ID: 0698051; SP_FLG: false; BARCODE: 003017906001
+3,4,4,1012616,"Liver_Degeneration, fatty (Peripheral)",,,,slight,"Liver_Degeneration, fatty (Peripheral)",,,,slight,SAMPLE_ID: 0698052; SP_FLG: false; BARCODE: No ChipData
+4,5,5,1012617,"Liver_Degeneration, fatty (Peripheral)",,,,slight,"Liver_Degeneration, fatty (Peripheral)",,,,slight,SAMPLE_ID: 0698053; SP_FLG: false; BARCODE: 003017906002
+5,6,6,1012618,"Liver_Degeneration, fatty (Peripheral)",,,,slight,"Liver_Degeneration, fatty (Peripheral)",,,,slight,SAMPLE_ID: 0698054; SP_FLG: false; BARCODE: No ChipData
+6,7,7,1012619,"Liver_Degeneration, fatty (Peripheral)",,,,slight,"Liver_Degeneration, fatty (Peripheral)",,,,slight,SAMPLE_ID: 0698055; SP_FLG: false; BARCODE: 003017906003
+7,8,3,1012620,"Liver_Deposit, glycogen (Peripheral)",,,,slight,"Liver_Deposit, glycogen (Peripheral)",,,,slight,SAMPLE_ID: 0698051; SP_FLG: false; BARCODE: 003017906001
+8,9,4,1012621,"Liver_Deposit, glycogen (Peripheral)",,,,slight,"Liver_Deposit, glycogen (Peripheral)",,,,slight,SAMPLE_ID: 0698052; SP_FLG: false; BARCODE: No ChipData
+9,10,5,1012622,"Liver_Deposit, glycogen (Peripheral)",,,,slight,"Liver_Deposit, glycogen (Peripheral)",,,,slight,SAMPLE_ID: 0698053; SP_FLG: false; BARCODE: 003017906002

@@ -1,0 +1,62 @@
+,drug_name,drug_type
+0,Acetylcholin,Inducer
+1,Acetylsalicylic Acid,Inhibitor
+2,Ademetionine,Substrate
+3,Angiotensinamide,Inducer
+4,Argatroban,Inducer
+5,Ascorbic Acid (vit C),"Inhibitor,Substrate"
+6,Azacitidine,Inhibitor
+7,Azathioprine,Substrate
+8,Bendroflumethiazide,Inhibitor
+9,Captopril,Substrate
+10,Chlorhexidine,Inhibitor
+11,Chloroquine,Inhibitor
+12,Chlorphenamine,Inducer
+13,Cocaine,Inducer
+14,Deanol,Substrate
+15,Decitabine,Inhibitor
+16,Dicycloverine,Inhibitor
+17,Diosmin,Inhibitor
+18,Entacapone,"Inhibitor,Inducer"
+19,Epinephrine,"Inducer,Substrate"
+20,Estradiol,"Inducer,Substrate"
+21,Folic Acid,Inhibitor
+22,Fosfocreatine,Inhibitor
+23,Glucagon,Inducer
+24,Histamine,Substrate
+25,Hydralazine,Inducer
+26,Hydrocortisone,Inhibitor
+27,Imipramine,Inhibitor
+28,Isoprenaline,Substrate
+29,Ketoprofen,Inhibitor
+30,Ketotifen,Inducer
+31,Levodopa,Substrate
+32,Lidocain,Inhibitor
+33,Mepacrine,Inhibitor
+34,Mercaptopurine,Substrate
+35,Mesalazine,Inhibitor
+36,Methotrexate,"Substrate,Inducer"
+37,Methyldopa (levorotatory),"Substrate,Inhibitor"
+38,Moclobemide,Inhibitor
+39,Naproxen,Inhibitor
+40,Olsalazine,Inhibitor
+41,Pargyline,"Inhibitor,Inducer"
+42,Physostigmine,Inhibitor
+43,Plicamycin,Inhibitor
+44,Procaine,Inhibitor
+45,Progesterone,"Inducer,Inhibitor"
+46,Pyridoxine (vit B6),Inhibitor
+47,Ribavirin,Inhibitor
+48,Selenium Compounds,Inhibitor
+49,Tacrine,Inhibitor
+50,Tamoxifen,Substrate
+51,Temozolomide,Inhibitor
+52,Tioguanine,"Substrate,Inducer"
+53,Tolcapone,Inhibitor
+54,Trimethoprim,Inducer
+55,Tubocurarine,Inhibitor
+56,Ubidecarenone,Substrate
+57,Varenicline,Inhibitor
+58,Vecuronium,Inhibitor
+59,Virginiamycin,Inhibitor
+60,Vorinostat,Inhibitor

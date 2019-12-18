@@ -1,0 +1,37 @@
+,drug_name,drug_type,Smiles
+0,Amiodarone,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C3=CC=CC=C3O1
+1,Atorvastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(C3=CC=CC=C3)=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C4=CC=C(F)C=C4
+2,Atorvastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Inducer,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(C3=CC=CC=C3)=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C4=CC=C(F)C=C4
+3,Bezafibrate,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CC(C)(OC1=CC=C(CCNC(=O)C2=CC=C(Cl)C=C2)C=C1)C(O)=O
+4,Bosentan,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,COC1=CC=CC=C1OC2=C(NS(=O)(=O)C3=CC=C(C=C3)C(C)(C)C)N=C(N=C2OCCO)C4=NC=CC=N4
+5,Bucladesine,Solute_carrier_organic_anion_transporter_family_member_1B1-Inducer,CCCC(=O)NC1=C2N=CN([C@@H]3O[C@@H]4CO[P@](O)(=O)O[C@H]4[C@H]3OC(=O)CCC)C2=NC=N1
+6,Cerivastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,COCC1=C(C2=CC=C(F)C=C2)C(C=C[C@@H](O)C[C@@H](O)CC(O)=O)=C(N=C1C(C)C)C(C)C
+7,Chenodeoxycholic Acid,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+8,Ciclosporin,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)CC=CC)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@@H](CC(C)C)NC(=O)CN(C)C1=O)C(C)C
+9,Digoxin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@H]2[C@@H](O)C[C@@H](O[C@@H]2C)O[C@H]3[C@@H](O)C[C@@H](O[C@@H]3C)O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]7(C)[C@@H](CC[C@]67O)C8=CC(=O)OC8)C4
+10,Enalapril,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CCOC(=O)[C@@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CCC[C@H]2C(O)=O
+11,Estradiol,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+12,Estrone,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CCC2=O
+13,Ezetimibe,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,O[C@@H](CC[C@H]1[C@H](N(C1=O)C2=CC=C(F)C=C2)C3=CC=C(O)C=C3)C4=CC=C(F)C=C4
+14,Fluvastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CC(C)N1C2=C(C=CC=C2)C(C3=CC=C(F)C=C3)=C1C=C[C@H](O)C[C@H](O)CC(O)=O
+15,Gemfibrozil,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CC1=CC(OCCCC(C)(C)C(O)=O)=C(C)C=C1
+16,Ibuprofen,Solute_carrier_organic_anion_transporter_family_member_1B1-Inducer,CC(C)CC1=CC=C(C=C1)[C@H](C)C(O)=O
+17,Indium (111In) Pentetic Acid,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@@H](O)[C@@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@@H](CC2=CC=CC=C2)NC(=O)CN3CCN4CCN(CC(O)=O)CC(=O)O[In](OC(=O)C4)OC(=O)C3)C(=O)N[C@H](CN[C@H](C[C@H]5C=NC6=C5C=CC=C6)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1)CC7=CC=CC=C7
+18,Ketoconazole,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CC(=O)N1CCN(CC1)C2=CC=C(OC[C@@H]3CO[C@](CN4C=CN=C4)(O3)C5=C(Cl)C=C(Cl)C=C5)C=C2
+19,Lopinavir,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC2=CC=CC=C2)NC(=O)COC3=C(C)C=CC=C3C)CC4=CC=CC=C4
+20,Lovastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12
+21,Methotrexate,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+22,Phenobarbital,Solute_carrier_organic_anion_transporter_family_member_1B1-Inducer,CC[C@@]1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2
+23,Prasterone,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CCC2=O
+24,Pravastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12
+25,Quinidine,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,COC1=CC2=C(C=CN=C2C=C1)[C@H](O)[C@H]3C[C@@H]4CCN3C[C@@H]4C=C
+26,Rifampicin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+27,Rifampicin,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CO[C@H]1C=CO[C@@]2(C)OC3=C(C2=O)C4=C(O)C(C=NN5CCN(C)CC5)=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+28,Rifamycin,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CO[C@H]1C=CO[C@]2(C)OC3=C(C2=O)C4=C(O)C=C(NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C4C(O)=C3C
+29,Rosuvastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1C=C[C@H](O)C[C@@H](O)CC(O)=O)N(C)S(C)(=O)=O
+30,Rosuvastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1C=C[C@H](O)C[C@@H](O)CC(O)=O)N(C)S(C)(=O)=O
+31,Silymarin,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,COC1=CC(=CC=C1O)[C@H]2OC3=C(O[C@@H]2CO)C=CC(=C3)[C@H]4OC5=CC(O)=CC(O)=C5C(=O)[C@@H]4O
+32,Simvastatin,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12
+33,Torasemide,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,CC(C)NC(=O)NS(=O)(=O)C1=C(NC2=CC(C)=CC=C2)C=CN=C1
+34,Ursodeoxycholic Acid,Solute_carrier_organic_anion_transporter_family_member_1B1-Inhibitor,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+35,Ursodeoxycholic Acid,Solute_carrier_organic_anion_transporter_family_member_1B1-Substrate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C

@@ -1,0 +1,5 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,180247,CHEMBL353314,CHEMBL1218067,294563,,Homo sapiens,U,=,950.0,nM,Kd,,52120,105493,PROTEIN,SINGLE PROTEIN,0,Cytochrome c
+1,180248,CHEMBL1213293,CHEMBL1218067,685135,,Homo sapiens,U,=,1700.0,nM,Kd,,52120,105493,PROTEIN,SINGLE PROTEIN,0,Cytochrome c
+2,180249,CHEMBL385913,CHEMBL1218067,144317,,Homo sapiens,U,=,1500.0,nM,Kd,,52120,105493,PROTEIN,SINGLE PROTEIN,0,Cytochrome c
+3,180250,CHEMBL438407,CHEMBL1218067,144203,,Homo sapiens,U,=,17000.0,nM,Kd,,52120,105493,PROTEIN,SINGLE PROTEIN,0,Cytochrome c

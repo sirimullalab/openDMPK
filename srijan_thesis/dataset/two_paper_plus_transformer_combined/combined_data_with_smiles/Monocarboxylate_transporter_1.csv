@@ -1,0 +1,10 @@
+,drug_name,drug_type,Smiles
+0,Biotin,Substrate,OC(=O)CCCC[C@@H]1SC[C@H]2NC(=O)N[C@@H]12
+1,Hydroxybutyric Acid,Substrate,CCCC(O)=O
+2,Mersalyl,Inhibitor,CO[C@@H](CNC(=O)C1=C(OCC([O-])=O)C=CC=C1)C[Hg]O
+3,Milchsäure,Substrate,C[C@@H](O)C(O)=O
+4,Nateglinide,Substrate,CC(C)[C@@H]1CC[C@H](CC1)C(=O)N[C@@H](CC2=CC=CC=C2)C(O)=O
+5,Nicotine,Inducer,CN1CCC[C@H]1C2=CC=CN=C2
+6,Niflumic Acid,Inhibitor,OC(=O)C1=C(NC2=CC(=CC=C2)C(F)(F)F)N=CC=C1
+7,Nitric Oxide,Inducer,N=O
+8,Testosterone,Inducer,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C

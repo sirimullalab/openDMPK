@@ -1,0 +1,32 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,180120,CHEMBL1669041,CHEMBL1671404,1067915,,Homo sapiens,H,,,,Activity,Active,55354,103899,PROTEIN,SINGLE PROTEIN,8,Cytochrome b-c1 complex subunit 7
+1,180121,CHEMBL1669041,CHEMBL1671405,1067915,Homo sapiens,Homo sapiens,D,,,,Activity,Active,55354,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+2,180122,CHEMBL1669042,CHEMBL1671406,1067916,Homo sapiens,Homo sapiens,D,,,,Activity,Active,55354,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+3,180123,CHEMBL1669042,CHEMBL1671407,1067916,Homo sapiens,Homo sapiens,D,,,,Activity,Active,55354,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+4,180124,CHEMBL1669041,CHEMBL1671407,1067915,Homo sapiens,Homo sapiens,D,,,,Activity,Active,55354,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+5,180125,CHEMBL1669041,CHEMBL1671408,1067915,Homo sapiens,Homo sapiens,D,,,,Activity,Dose-dependent effect,55354,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+6,180126,CHEMBL3360255,CHEMBL3387788,1824432,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+7,180127,CHEMBL3360256,CHEMBL3387788,1824433,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+8,180128,CHEMBL188279,CHEMBL3387788,313899,Homo sapiens,Homo sapiens,D,=,5000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+9,180129,CHEMBL3360257,CHEMBL3387788,1824434,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+10,180130,CHEMBL3360258,CHEMBL3387788,1824435,Homo sapiens,Homo sapiens,D,=,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+11,180131,CHEMBL3360259,CHEMBL3387788,1824436,Homo sapiens,Homo sapiens,D,=,2500.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+12,180132,CHEMBL3360260,CHEMBL3387788,1824437,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+13,180133,CHEMBL3360261,CHEMBL3387788,1824438,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+14,180134,CHEMBL3360262,CHEMBL3387788,1824439,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+15,180135,CHEMBL3360263,CHEMBL3387788,1824440,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+16,180136,CHEMBL3360264,CHEMBL3387788,1824441,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+17,180137,CHEMBL3360268,CHEMBL3387788,1824445,Homo sapiens,Homo sapiens,D,=,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+18,180138,CHEMBL3360267,CHEMBL3387788,1824444,Homo sapiens,Homo sapiens,D,=,5000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+19,180139,CHEMBL185823,CHEMBL3387788,313539,Homo sapiens,Homo sapiens,D,=,8000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+20,180140,CHEMBL186268,CHEMBL3387788,313538,Homo sapiens,Homo sapiens,D,=,8000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+21,180141,CHEMBL1530310,CHEMBL3387788,954194,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+22,180142,CHEMBL3360266,CHEMBL3387788,1824443,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+23,180143,CHEMBL3360265,CHEMBL3387788,1824442,Homo sapiens,Homo sapiens,D,=,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+24,180144,CHEMBL2322452,CHEMBL3387788,1516601,Homo sapiens,Homo sapiens,D,>,20000.0,nM,IC50,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+25,180145,CHEMBL3360259,CHEMBL3387789,1824436,Homo sapiens,Homo sapiens,D,=,40.0,%,Inhibition,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+26,180146,CHEMBL188279,CHEMBL3387789,313899,Homo sapiens,Homo sapiens,D,=,40.0,%,Inhibition,,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+27,180147,CHEMBL188279,CHEMBL3388445,313899,Homo sapiens,Homo sapiens,D,,,,Inhibition,Dose-dependent effect,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+28,180148,CHEMBL3360259,CHEMBL3388445,1824436,Homo sapiens,Homo sapiens,D,,,,Inhibition,Dose-dependent effect,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+29,180149,CHEMBL188279,CHEMBL3388446,313899,Homo sapiens,Homo sapiens,D,,,,Inhibition,Active,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7
+30,180150,CHEMBL3360259,CHEMBL3388446,1824436,Homo sapiens,Homo sapiens,D,,,,Inhibition,Active,89406,103899,PROTEIN,SINGLE PROTEIN,9,Cytochrome b-c1 complex subunit 7

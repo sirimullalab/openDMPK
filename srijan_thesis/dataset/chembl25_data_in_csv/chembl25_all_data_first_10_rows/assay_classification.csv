@@ -1,0 +1,11 @@
+,assay_class_id,l1,l2,l3,class_type,source
+0,1,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,Computer-Assisted Measurement of Food Consumption in Rats Anorectic Activity,In vivo efficacy,Vogel_2008
+1,2,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,Food Consumption in Rats Anorectic Activity,In vivo efficacy,Vogel_2008
+2,3,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,General Anti-Obesity activity,In vivo efficacy,phenotype
+3,4,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,Resting Metabolic Rate Anti-Obesity,In vivo efficacy,Vogel_2008
+4,5,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Alloxan Induced Diabetes,In vivo efficacy,Vogel_2008
+5,6,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Corticosteroid Induced Diabetes,In vivo efficacy,Vogel_2008
+6,7,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Streptozotocin Induced Diabetes,In vivo efficacy,Vogel_2008
+7,8,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Virus Induced Diabetes,In vivo efficacy,Vogel_2008
+8,9,ALIMENTARY TRACT AND METABOLISM,Experimental Obesity,Diet Induced Obesity,In vivo efficacy,Hock_2016
+9,10,ALIMENTARY TRACT AND METABOLISM,Experimental Obesity,Goldthioglucose Induced Obesity,In vivo efficacy,Vogel_2008

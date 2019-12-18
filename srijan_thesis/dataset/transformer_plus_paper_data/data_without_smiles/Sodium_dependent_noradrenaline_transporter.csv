@@ -1,0 +1,15 @@
+,drug_name,drug_type
+0,Amitriptyline,Inhibitor
+1,Atomoxetine,Inhibitor
+2,Cocaine,Inducer
+3,Desipramine,Inhibitor
+4,Dopamine,Substrate
+5,Duloxetine,Inhibitor
+6,Metaraminol,Substrate
+7,Methylphenidate,Substrate
+8,Norepinephrine,Substrate
+9,Reboxetine,Inducer
+10,Sibutramine,Inhibitor
+11,Sodium Chloride,Inducer
+12,Tramadol,Inhibitor
+13,Vorinostat,Inducer

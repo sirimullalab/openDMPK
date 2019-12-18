@@ -1,0 +1,75 @@
+,drug_name,drug_type
+0,Acetylcholin,Inhibitor
+1,Acetylsalicylic Acid,Inhibitor
+2,Adenosine,Inducer
+3,Allopurinol,Substrate
+4,Amfetamine,Inducer
+5,Aminobenzoic Acid,"Substrate,Inhibitor"
+6,Aminophylline,Inducer
+7,Androstanolone,Inducer
+8,Apomorphine,Inhibitor
+9,Arbekacin,Substrate
+10,Ascorbic Acid (vit C),Inhibitor
+11,Bergapten,Inhibitor
+12,Bromocriptine,Inhibitor
+13,Bucladesine,Inducer
+14,Caffeine,Substrate
+15,Carbachol,Inhibitor
+16,Carmustine,Inhibitor
+17,Cimetidine,Inhibitor
+18,Clonazepam,Substrate
+19,Clonidine,Inhibitor
+20,Clozapine,Inducer
+21,Cocaine,"Inducer,Inhibitor"
+22,Dactinomycin,Inhibitor
+23,Desipramine,"Inducer,Inhibitor"
+24,Dexamfetamine,Inducer
+25,Diazepam,Inducer
+26,Dihydralazine,Substrate
+27,Dinoprostone,Inducer
+28,Disulfiram,Inhibitor
+29,Esketamine,Inducer
+30,Fluoxetine,Inducer
+31,Folic Acid,"Inhibitor,Substrate"
+32,G-strophanthin,Inducer
+33,Glycyrrhizic Acid,Inhibitor
+34,Haloperidol,Inhibitor
+35,Hydralazine,Substrate
+36,Hydrocortisone,Inducer
+37,Ibuprofen,"Inhibitor,Inducer"
+38,Imipramine,Inducer
+39,Indometacin,"Inhibitor,Inducer"
+40,Insulin (human),Inducer
+41,Iproniazide,Inhibitor
+42,Isoprenaline,Inducer
+43,Ketamine,Inducer
+44,Ketoprofen,Inhibitor
+45,Levodopa,Inducer
+46,Lindane,Inducer
+47,Melatonin,"Inducer,Inhibitor"
+48,Mercaptamine,Inhibitor
+49,Mesalazine,Substrate
+50,Metamizole Sodium,Substrate
+51,Methotrexate,Inducer
+52,Metoclopramide,Inducer
+53,Netilmicin,Substrate
+54,Nicotine,Inhibitor
+55,Norepinephrine,Inducer
+56,Octopamine,Substrate
+57,Oxedrine,Inhibitor
+58,Paclitaxel,Inhibitor
+59,Pargyline,Inducer
+60,Phenazone,Substrate
+61,Procainamide,Substrate
+62,Salicylamide,Inhibitor
+63,Sulfadiazine,Substrate
+64,Sulfamethoxazole,Substrate
+65,Sulfapyridine,Substrate
+66,Sulindac,Inhibitor
+67,Sultiame,Inducer
+68,Tamoxifen,Inhibitor
+69,Testosterone,Inducer
+70,Theophylline,Inducer
+71,Tobramycin,Substrate
+72,Trichloroethylene,Substrate
+73,Warfarin,Inhibitor

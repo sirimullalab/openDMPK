@@ -1,0 +1,12 @@
+,drug_name,drug_type,Smiles
+0,Aminosalicylic Acid,Substrate,NC1=CC(O)=C(C=C1)C(O)=O
+1,Cisplatin,Inhibitor,N[Pt](N)(Cl)Cl
+2,Dexamethasone,Inducer,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO
+3,Folic Acid,Substrate,NC1=NC(=O)C2=C(N1)N=CC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=N2
+4,Isoniazid,Substrate,NNC(=O)C1=CC=NC=C1
+5,Levoglutamide,Substrate,N[C@@H](CCC(N)=O)C(O)=O
+6,"Mercury, Metallic",Inhibitor,[Hg]
+7,Mesalazine,Substrate,NC1=CC(C(O)=O)=C(O)C=C1
+8,Paclitaxel,Inhibitor,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C6=CC=CC=C6)C7=CC=CC=C7)C(C)=C1C5(C)C
+9,Sulfadimidine,Substrate,CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1
+10,Sulfamethoxazole,Substrate,CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1

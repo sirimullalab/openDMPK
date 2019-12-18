@@ -1,0 +1,2 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,smiles
+0,CHEMBL495075,CHEMBL1009484,468871,Cytochrome P450 3A43,,Homo sapiens,H,=,1900.0,nM,IC50,,43815,101555,PROTEIN,SINGLE PROTEIN,8,Clc1ccc(cc1Cl)C(=O)N[C@H]2CCN(Cc3ccc(OC4CCNCC4)c(Br)c3)C2

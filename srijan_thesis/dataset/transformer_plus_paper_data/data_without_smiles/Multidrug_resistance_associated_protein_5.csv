@@ -1,0 +1,7 @@
+,drug_name,drug_type
+0,Adenosine,Substrate
+1,Fluorescein,Substrate
+2,Fluorouracil,Inducer
+3,Gemcitabine,"Inducer,Substrate"
+4,Irinotecan,Substrate
+5,Probenecid,Inhibitor

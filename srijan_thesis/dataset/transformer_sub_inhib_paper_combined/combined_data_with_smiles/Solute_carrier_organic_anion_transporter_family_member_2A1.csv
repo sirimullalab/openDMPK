@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Latanoprost,Inhibitor,CC(C)OC(=O)CCCC=CC[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCC2=CC=CC=C2
+1,Latanoprost,Substrate,CC(C)OC(=O)CCCC=CC[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCC2=CC=CC=C2

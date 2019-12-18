@@ -1,0 +1,82 @@
+,drug_name,drug_type,Smiles
+0,Acetylcholin,N_acetyltransferase-Inhibitor,CC(=O)OCC[N+](C)(C)C
+1,Acetylsalicylic Acid,N_acetyltransferase-Inhibitor,CC(=O)OC1=C(C=CC=C1)C(O)=O
+2,Adenosine,N_acetyltransferase-Inducer,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=NC=N1
+3,Allopurinol,N_acetyltransferase-Substrate,OC1=NC=NC2=C1C=NN2
+4,Amfetamine,N_acetyltransferase-Inducer,C[C@@H](N)CC1=CC=CC=C1
+5,Aminobenzoic Acid,N_acetyltransferase-Substrate,NC1=CC=C(C=C1)C(O)=O
+6,Aminobenzoic Acid,N_acetyltransferase-Inhibitor,NC1=CC=C(C=C1)C(O)=O
+7,Aminophylline,N_acetyltransferase-Inducer,CN1C(=O)N(C)C2=C(NC=N2)C1=O
+8,Androstanolone,N_acetyltransferase-Inducer,C[C@]12CC[C@H]3[C@@H](CC[C@H]4CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O
+9,Apomorphine,N_acetyltransferase-Inhibitor,CN1CCC2=CC=CC3=C2[C@H]1CC4=C3C(O)=C(O)C=C4
+10,Arbekacin,N_acetyltransferase-Substrate,NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O
+11,Ascorbic Acid (vit C),N_acetyltransferase-Inhibitor,OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
+12,Bergapten,N_acetyltransferase-Inhibitor,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3
+13,Bromocriptine,N_acetyltransferase-Inhibitor,CC(C)C[C@@H]1N2C(=O)[C@](NC(=O)[C@H]3CN(C)[C@@H]4CC5=C(Br)NC6=CC=CC(C4=C3)=C56)(O[C@@]2(O)[C@@H]7CCCN7C1=O)C(C)C
+14,Bucladesine,N_acetyltransferase-Inducer,CCCC(=O)NC1=C2N=CN([C@@H]3O[C@@H]4CO[P@](O)(=O)O[C@H]4[C@H]3OC(=O)CCC)C2=NC=N1
+15,Caffeine,N_acetyltransferase-Substrate,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+16,Carbachol,N_acetyltransferase-Inhibitor,C[N+](C)(C)CCOC(N)=O
+17,Carmustine,N_acetyltransferase-Inhibitor,ClCCNC(=O)N(CCCl)N=O
+18,Cimetidine,N_acetyltransferase-Inhibitor,CNC(NCCSCC1=C(C)NC=N1)=N/C#N
+19,Clonazepam,N_acetyltransferase-Substrate,[O-][N+](=O)C1=CC2=C(NC(=O)CN=C2C3=C(Cl)C=CC=C3)C=C1
+20,Clonidine,N_acetyltransferase-Inhibitor,ClC1=CC=CC(Cl)=C1NC2=NCCN2
+21,Clozapine,N_acetyltransferase-Inducer,CN1CCN(CC1)C2=NC3=C(NC4=C2C=CC=C4)C=CC(Cl)=C3
+22,Cocaine,N_acetyltransferase-Inducer,COC(=O)[C@H]1[C@H](C[C@H]2CC[C@@H]1N2C)OC(=O)C3=CC=CC=C3
+23,Cocaine,N_acetyltransferase-Inhibitor,COC(=O)[C@H]1[C@H](C[C@H]2CC[C@@H]1N2C)OC(=O)C3=CC=CC=C3
+24,Dactinomycin,N_acetyltransferase-Inhibitor,CC(C)[C@@H]1NC(=O)[C@H](NC(=O)C2=C3N=C4C(OC3=C(C)C=C2)=C(C)C(=O)C(N)=C4C(=O)N[C@@H]5[C@H](C)OC(=O)[C@@H](C(C)C)N(C)C(=O)CN(C)C(=O)[C@H]6CCCN6C(=O)[C@@H](NC5=O)C(C)C)[C@H](C)OC(=O)[C@@H](C(C)C)N(C)C(=O)CN(C)C(=O)[C@H]7CCCN7C1=O
+25,Desipramine,N_acetyltransferase-Inducer,CNCCCN1C2=C(CCC3=C1C=CC=C3)C=CC=C2
+26,Desipramine,N_acetyltransferase-Inhibitor,CNCCCN1C2=C(CCC3=C1C=CC=C3)C=CC=C2
+27,Dexamfetamine,N_acetyltransferase-Inducer,C[C@H](N)CC1=CC=CC=C1
+28,Diazepam,N_acetyltransferase-Inducer,CN1C(=O)CN=C(C2=CC=CC=C2)C3=C1C=CC(Cl)=C3
+29,Dihydralazine,N_acetyltransferase-Substrate,NNC1=NN=C(NN)C2=C1C=CC=C2
+30,Dinoprostone,N_acetyltransferase-Inducer,CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1C\C=C/CCCC(O)=O
+31,Disulfiram,N_acetyltransferase-Inhibitor,CCN(CC)C(=S)SSC(=S)N(CC)CC
+32,Esketamine,N_acetyltransferase-Inducer,CN[C@@]1(CCCCC1=O)C2=C(Cl)C=CC=C2
+33,Fluoxetine,N_acetyltransferase-Inducer,CNCC[C@@H](OC1=CC=C(C=C1)C(F)(F)F)C2=CC=CC=C2
+34,Folic Acid,N_acetyltransferase-Inhibitor,NC1=NC(=O)C2=C(N1)N=CC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=N2
+35,Folic Acid,N_acetyltransferase-Substrate,NC1=NC(=O)C2=C(N1)N=CC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=N2
+36,G-strophanthin,N_acetyltransferase-Inducer,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@H](CC[C@]5(O)[C@H]4CC[C@]3(O)C2)C6=CC(=O)OC6)[C@H](O)[C@H](O)[C@H]1O
+37,Glycyrrhizic Acid,N_acetyltransferase-Inhibitor,[H][C@@]12C[C@](C)(CC[C@]1(C)CC[C@]1(C)C2=CC(=O)[C@]2([H])[C@@]3(C)CC[C@H](O[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O)C(O)=O)C(O)=O)C(C)(C)[C@]3([H])CC[C@@]12C)C(O)=O
+38,Haloperidol,N_acetyltransferase-Inhibitor,O[C@@]1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C3=CC=C(Cl)C=C3
+39,Hydralazine,N_acetyltransferase-Substrate,NN=C1NN=CC2=C1C=CC=C2
+40,Hydrocortisone,N_acetyltransferase-Inducer,C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)C[C@H](O)[C@H]23
+41,Ibuprofen,N_acetyltransferase-Inhibitor,CC(C)CC1=CC=C(C=C1)[C@H](C)C(O)=O
+42,Ibuprofen,N_acetyltransferase-Inducer,CC(C)CC1=CC=C(C=C1)[C@H](C)C(O)=O
+43,Imipramine,N_acetyltransferase-Inducer,CN(C)CCCN1C2=C(CCC3=C1C=CC=C3)C=CC=C2
+44,Indometacin,N_acetyltransferase-Inhibitor,COC1=CC2=C(C=C1)N(C(C)=C2CC(O)=O)C(=O)C3=CC=C(Cl)C=C3
+45,Indometacin,N_acetyltransferase-Inducer,COC1=CC2=C(C=C1)N(C(C)=C2CC(O)=O)C(=O)C3=CC=C(Cl)C=C3
+46,Insulin (human),N_acetyltransferase-Inducer,CC[C@H](C)[C@H](NC(=O)CN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@H]1CSSC[C@@H]2NC(=O)[C@@H](NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CSSC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC3=CN=CN3)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@@H](N)CC4=CC=CC=C4)C(C)C)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC5=CN=CN5)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC6=CC=C(O)C=C6)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CSSC[C@H](NC(=O)[C@H](CC7=CC=C(O)C=C7)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC8=CC=C(O)C=C8)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC2=O)C(=O)N[C@@H](CC(N)=O)C(O)=O)C(=O)NCC(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(=O)N[C@@H](CC9=CC=CC=C9)C(=O)N[C@@H](CC%10=CC=CC=C%10)C(=O)N[C@@H](CC%11=CC=C(O)C=C%11)C(=O)N[C@@H]([C@@H](C)O)C(=O)N%12CCC[C@H]%12C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(O)=O)NC1=O)[C@@H](C)O)[C@@H](C)CC
+47,Iproniazide,N_acetyltransferase-Inhibitor,CC(C)NNC(=O)C1=CC=NC=C1
+48,Isoprenaline,N_acetyltransferase-Inducer,CC(C)NC[C@H](O)C1=CC(O)=C(O)C=C1
+49,Ketamine,N_acetyltransferase-Inducer,CN[C@]1(CCCCC1=O)C2=C(Cl)C=CC=C2
+50,Ketoprofen,N_acetyltransferase-Inhibitor,C[C@H](C(O)=O)C1=CC(=CC=C1)C(=O)C2=CC=CC=C2
+51,Levodopa,N_acetyltransferase-Inducer,N[C@@H](CC1=CC(O)=C(O)C=C1)C(O)=O
+52,Lindane,N_acetyltransferase-Inducer,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
+53,Melatonin,N_acetyltransferase-Inducer,COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
+54,Melatonin,N_acetyltransferase-Inhibitor,COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
+55,Mercaptamine,N_acetyltransferase-Inhibitor,NCCS
+56,Mesalazine,N_acetyltransferase-Substrate,NC1=CC(C(O)=O)=C(O)C=C1
+57,Metamizole Sodium,N_acetyltransferase-Substrate,CN(CS([O-])(=O)=O)C1=C(C)N(C)N(C1=O)C2=CC=CC=C2
+58,Methotrexate,N_acetyltransferase-Inducer,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+59,Metoclopramide,N_acetyltransferase-Inducer,CCN(CC)CCNC(=O)C1=C(OC)C=C(N)C(Cl)=C1
+60,Netilmicin,N_acetyltransferase-Substrate,CCN[C@@H]1C[C@H](N)[C@@H](O[C@@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1O[C@H]3OC[C@](C)(O)[C@H](NC)[C@H]3O
+61,Nicotine,N_acetyltransferase-Inhibitor,CN1CCC[C@H]1C2=CC=CN=C2
+62,Norepinephrine,N_acetyltransferase-Inducer,NC[C@@H](O)C1=CC(O)=C(O)C=C1
+63,Octopamine,N_acetyltransferase-Substrate,NC[C@H](O)C1=CC=C(O)C=C1
+64,Oxedrine,N_acetyltransferase-Inhibitor,CNC[C@@H](O)C1=CC=C(O)C=C1
+65,Paclitaxel,N_acetyltransferase-Inhibitor,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C6=CC=CC=C6)C7=CC=CC=C7)C(C)=C1C5(C)C
+66,Pargyline,N_acetyltransferase-Inducer,CN(CC#C)CC1=CC=CC=C1
+67,Phenazone,N_acetyltransferase-Substrate,CN1N(C(=O)C=C1C)C2=CC=CC=C2
+68,Procainamide,N_acetyltransferase-Substrate,CCN(CC)CCNC(=O)C1=CC=C(N)C=C1
+69,Salicylamide,N_acetyltransferase-Inhibitor,NC(=O)C1=C(O)C=CC=C1
+70,Sulfadiazine,N_acetyltransferase-Substrate,NC1=CC=C(C=C1)S(=O)(=O)NC2=NC=CC=N2
+71,Sulfamethoxazole,N_acetyltransferase-Substrate,CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+72,Sulfapyridine,N_acetyltransferase-Substrate,NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=N2
+73,Sulindac,N_acetyltransferase-Inhibitor,CC1=C(CC(O)=O)C2=C(C=CC(F)=C2)C1=C/C3=CC=C(C=C3)S(C)=O
+74,Sultiame,N_acetyltransferase-Inducer,NS(=O)(=O)C1=CC=C(C=C1)N2CCCCS2(=O)=O
+75,Tamoxifen,N_acetyltransferase-Inhibitor,CCC(C1=CC=CC=C1)=C(/C2=CC=CC=C2)C3=CC=C(OCCN(C)C)C=C3
+76,Testosterone,N_acetyltransferase-Inducer,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+77,Theophylline,N_acetyltransferase-Inducer,CN1C(=O)N(C)C2=C(NC=N2)C1=O
+78,Tobramycin,N_acetyltransferase-Substrate,NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)C[C@@H]1O
+79,Trichloroethylene,N_acetyltransferase-Substrate,ClC=C(Cl)Cl
+80,Warfarin,N_acetyltransferase-Inhibitor,CC(=O)C[C@H](C1=CC=CC=C1)C2=C(O)C3=C(OC2=O)C=CC=C3

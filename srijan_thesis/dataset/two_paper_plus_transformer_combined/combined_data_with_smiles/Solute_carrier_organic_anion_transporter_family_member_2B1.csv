@@ -1,0 +1,11 @@
+,drug_name,drug_type,Smiles
+0,Atorvastatin,Substrate,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(C3=CC=CC=C3)=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C4=CC=C(F)C=C4
+1,Ergoloid Mesylates,Inhibitor,CC(C)C[C@@H]1N2C(=O)[C@](NC(=O)[C@@H]3C[C@H]4[C@@H](CC5=CNC6=CC=CC4=C56)N(C)C3)(O[C@@]2(O)[C@@H]7CCCN7C1=O)C(C)C
+2,Estrone,Substrate,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CCC2=O
+3,Fexofenadine,Substrate,CC(C)(C(O)=O)C1=CC=C(C=C1)[C@@H](O)CCCN2CC[C@@H](CC2)C(O)(C3=CC=CC=C3)C4=CC=CC=C4
+4,Glibenclamide,Substrate,COC1=C(C=C(Cl)C=C1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)N[C@H]3CCCCC3
+5,Montelukast,Substrate,CC(C)(O)C1=C(CC[C@@H](SC[C@]2(CC2)CC(O)=O)C3=CC(=CC=C3)C=CC4=NC5=CC(Cl)=CC=C5C=C4)C=CC=C1
+6,Pravastatin,Substrate,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12
+7,Ritonavir,Substrate,CC(C)[C@@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC2=CC=CC=C2)NC(=O)OCC3=CN=CS3)CC4=CC=CC=C4
+8,Rosuvastatin,Substrate,CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1C=C[C@H](O)C[C@@H](O)CC(O)=O)N(C)S(C)(=O)=O
+9,Testosterone,Inhibitor,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C

@@ -1,0 +1,11 @@
+,tid,target_type,pref_name,tax_id,organism,chembl_id,species_group_flag
+0,1,SINGLE PROTEIN,Maltase-glucoamylase,9606,Homo sapiens,CHEMBL2074,0
+1,2,SINGLE PROTEIN,Sulfonylurea receptor 2,9606,Homo sapiens,CHEMBL1971,0
+2,3,SINGLE PROTEIN,Phosphodiesterase 5A,9606,Homo sapiens,CHEMBL1827,0
+3,4,SINGLE PROTEIN,Voltage-gated T-type calcium channel alpha-1H subunit,9606,Homo sapiens,CHEMBL1859,0
+4,5,SINGLE PROTEIN,Nicotinic acetylcholine receptor alpha subunit,6253,Ascaris suum,CHEMBL1884,0
+5,6,SINGLE PROTEIN,Dihydrofolate reductase,9606,Homo sapiens,CHEMBL202,0
+6,7,SINGLE PROTEIN,Dihydrofolate reductase,83333,Escherichia coli K-12,CHEMBL1809,0
+7,8,SINGLE PROTEIN,Tyrosine-protein kinase ABL,9606,Homo sapiens,CHEMBL1862,0
+8,9,SINGLE PROTEIN,Epidermal growth factor receptor erbB1,9606,Homo sapiens,CHEMBL203,0
+9,10,SINGLE PROTEIN,DNA-directed RNA polymerase beta chain,83333,Escherichia coli K-12,CHEMBL1852,0

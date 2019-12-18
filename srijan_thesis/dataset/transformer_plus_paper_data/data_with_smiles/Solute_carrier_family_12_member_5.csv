@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Furosemide,Inhibitor,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl
+1,Potassium Chloride,Substrate,[Cl-].[K+]

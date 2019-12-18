@@ -1,0 +1,11 @@
+,action_type,description,parent_type
+0,ACTIVATOR,"Positively effects the normal functioning of the protein e.g., activation of an enzyme or cleaving a clotting protein precursor",POSITIVE MODULATOR
+1,AGONIST,"Binds to and activates a receptor, often mimicking the effect of the endogenous ligand",POSITIVE MODULATOR
+2,ALLOSTERIC ANTAGONIST,Binds to a receptor at an allosteric site and prevents activation by a positive allosteric modulator at that site,NEGATIVE MODULATOR
+3,ANTAGONIST,Binds to a receptor and prevents activation by an agonist through competing for the binding site,NEGATIVE MODULATOR
+4,ANTISENSE INHIBITOR,Prevents translation of a complementary mRNA sequence through binding to it,NEGATIVE MODULATOR
+5,BINDING AGENT,"Binds to a substance such as a cell surface antigen, targetting a drug to that location, but not necessarily affecting the functioning of the substance itself",OTHER
+6,BLOCKER,"Negatively effects the normal functioning of an ion channel e.g., prevents or reduces transport of ions through the channel",NEGATIVE MODULATOR
+7,CHELATING AGENT,"Binds to a metal, reducing its availability for further interactions",OTHER
+8,CROSS-LINKING AGENT,Induces cross-linking of proteins or nucleic acids,OTHER
+9,DEGRADER,"Binds to or antagonizes a receptor, leading to its degradation",NEGATIVE MODULATOR

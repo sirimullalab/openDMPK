@@ -1,0 +1,11 @@
+,usan_stem_id,stem,subgroup,annotation,stem_class,major_class,who_extra
+0,1,-trilat,-,endopeptidase inhibitors,Suffix,protease,0
+1,2,-caserin,-,"serotonin receptor agonists, primarily 5-HT2",Suffix,GPCR,0
+2,3,-serod,-,serotonin receptor antagonists and partial agonists,Suffix,GPCR,0
+3,4,-ditan,-,antimigraine (5-HT1 receptor agonists),Suffix,GPCR,0
+4,5,-triptan,-,"antimigraine agents (5-HT1 receptor agonists),sumatriptan derivatives",Suffix,GPCR,0
+5,6,-zotan,-,5-HT1A receptor agonists/antagonists acting primarily as neuroprotectors,Suffix,GPCR,0
+6,7,-sonan,-,5-HT1B receptor antagonists,Suffix,GPCR,0
+7,8,-anserin,-,serotonin 5-HT2 receptor antagonists,Suffix,GPCR,0
+8,9,-denant,-,adenosine 2A antagonists,Suffix,GPCR,0
+9,10,-denoson,-,adenosine A receptor agonists,Suffix,GPCR,0

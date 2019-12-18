@@ -1,0 +1,8 @@
+,drug_name,drug_type,Smiles
+0,Astemizole,2J2-Substrate,COC1=CC=C(CCN2CC[C@@H](CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(F)C=C5)C=C1
+1,Cocaine,2J2-Inducer,COC(=O)[C@H]1[C@H](C[C@H]2CC[C@@H]1N2C)OC(=O)C3=CC=CC=C3
+2,Ebastine,2J2-Inhibitor,CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CC[C@H](CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4
+3,Ebastine,2J2-Substrate,CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CC[C@H](CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4
+4,Ergocalciferol,2J2-Substrate,CC(C)[C@@H](C)C=C[C@@H](C)[C@H]1CC[C@H]2C(CCC[C@]12C)=CC=C3C[C@@H](O)CCC3=C
+5,Masoprocol,2J2-Inhibitor,C[C@H](CC1=CC=C(O)C(O)=C1)[C@@H](C)CC2=CC(O)=C(O)C=C2
+6,Terfenadine,2J2-Inhibitor,CC(C)(C)C1=CC=C(C=C1)[C@@H](O)CCCN2CC[C@@H](CC2)C(O)(C3=CC=CC=C3)C4=CC=CC=C4

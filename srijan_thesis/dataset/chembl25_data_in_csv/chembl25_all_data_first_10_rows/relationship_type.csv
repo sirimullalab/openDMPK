@@ -1,0 +1,7 @@
+,relationship_type,relationship_desc
+0,D,Direct protein target assigned
+1,H,Homologous protein target assigned
+2,M,Molecular target other than protein assigned
+3,N,Non-molecular target assigned
+4,S,Subcellular target assigned
+5,U,Default value - Target has yet to be curated

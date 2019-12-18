@@ -1,0 +1,5 @@
+,drug_name,drug_type,Smiles
+0,Fluorouracil,ATP_binding_cassette_transporter_sub_family_C_member_11-Inducer,FC1=CNC(=O)NC1=O
+1,Methotrexate,ATP_binding_cassette_transporter_sub_family_C_member_11-Substrate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+2,Methotrexate,ATP_binding_cassette_transporter_sub_family_C_member_11-Inducer,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+3,Prasterone,ATP_binding_cassette_transporter_sub_family_C_member_11-Substrate,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CCC2=O

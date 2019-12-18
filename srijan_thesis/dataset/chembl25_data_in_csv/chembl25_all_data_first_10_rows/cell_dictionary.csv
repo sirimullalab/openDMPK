@@ -1,0 +1,11 @@
+,cell_id,cell_name,cell_description,cell_source_tissue,cell_source_organism,cell_source_tax_id,clo_id,efo_id,cellosaurus_id,cl_lincs_id,chembl_id
+0,1,DC3F,DC3F,Lung,Cricetulus griseus,10029,,,CVCL_4704,,CHEMBL3307241
+1,2,P3HR-1,P3HR-1,Lyphoma,Homo sapiens,9606,CLO_0008331,EFO_0002312,CVCL_2676,LCL-2024,CHEMBL3307242
+2,3,UCLA P-3,UCLA P-3,Lung Adenocarcinoma,Homo sapiens,9606,,,CVCL_N513,,CHEMBL3307243
+3,4,UMSCC22B,UMSCC22B,Carcinoma,Homo sapiens,9606,,,CVCL_7732,,CHEMBL3307244
+4,5,UMUC3,UMUC3,Bladder Carcinoma,Homo sapiens,9606,CLO_0009487,EFO_0002387,CVCL_1783,LCL-1721,CHEMBL3307245
+5,6,V79-4,V79-4,Lung,Cricetulus griseus,10029,CLO_0009504,,CVCL_2796,,CHEMBL3307246
+6,7,VCR100,VCR100,Leukaemia,Mus musculus,10090,,,,,CHEMBL3307247
+7,8,W256,W256,Monocytic Carcinosarcoma,Rattus norvegicus,10116,CLO_0007335,,CVCL_3537,,CHEMBL3307248
+8,9,WEHI265.1,WEHI265.1,Macrophage,Mus musculus,10090,CLO_0009576,,CVCL_3620,,CHEMBL3307249
+9,10,WiDr-NTR,WiDr-NTR,Colon Adenocarcinoma,Homo sapiens,9606,,,,,CHEMBL3307250

@@ -1,0 +1,11 @@
+,drugind_id,record_id,molregno,max_phase_for_ind,mesh_id,mesh_heading,efo_id,efo_term
+0,22606,1390869,675774,2,D045743,"Scleroderma, Diffuse",EFO:0000404,diffuse scleroderma
+1,22607,1390869,675774,4,D001172,"Arthritis, Rheumatoid",EFO:0000685,rheumatoid arthritis
+2,22608,1390869,675774,2,D008180,"Lupus Erythematosus, Systemic",EFO:0002690,systemic lupus erythematosus
+3,22609,1343491,675576,3,D009203,Myocardial Infarction,EFO:0000612,myocardial infarction
+4,22610,1344515,438435,4,D011471,Prostatic Neoplasms,EFO:0001663,prostate carcinoma
+5,22612,1343309,448986,4,D003920,Diabetes Mellitus,EFO:0000400,diabetes mellitus
+6,22613,1343309,448986,3,D024821,Metabolic Syndrome,EFO:0000195,metabolic syndrome
+7,22614,1343309,448986,2,D065626,Non-alcoholic Fatty Liver Disease,EFO:0003095,non-alcoholic fatty liver disease
+8,22615,1343309,448986,4,D003924,"Diabetes Mellitus, Type 2",EFO:0001360,type II diabetes mellitus
+9,22617,1343835,16450,4,D005334,Fever,HP:0001945,fever

@@ -1,0 +1,11 @@
+,drug_name,drug_type,Smiles
+0,Aciclovir,Neutral_amino_acid_transporter_B0-Substrate,NC1=NC2=C(N=CN2COCCO)C(=O)N1
+1,Ganciclovir,Neutral_amino_acid_transporter_B0-Substrate,NC1=NC2=C(N=CN2COC(CO)CO)C(=O)N1
+2,Glycine,Neutral_amino_acid_transporter_B0-Substrate,NCC(O)=O
+3,Insulin (human),Neutral_amino_acid_transporter_B0-Inducer,CC[C@H](C)[C@H](NC(=O)CN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@H]1CSSC[C@@H]2NC(=O)[C@@H](NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CSSC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC3=CN=CN3)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@@H](N)CC4=CC=CC=C4)C(C)C)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC5=CN=CN5)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC6=CC=C(O)C=C6)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CSSC[C@H](NC(=O)[C@H](CC7=CC=C(O)C=C7)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC8=CC=C(O)C=C8)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC2=O)C(=O)N[C@@H](CC(N)=O)C(O)=O)C(=O)NCC(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(=O)N[C@@H](CC9=CC=CC=C9)C(=O)N[C@@H](CC%10=CC=CC=C%10)C(=O)N[C@@H](CC%11=CC=C(O)C=C%11)C(=O)N[C@@H]([C@@H](C)O)C(=O)N%12CCC[C@H]%12C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(O)=O)NC1=O)[C@@H](C)O)[C@@H](C)CC
+4,Levocarnitine,Neutral_amino_acid_transporter_B0-Substrate,C[N+](C)(C)C[C@H](O)CC([O-])=O
+5,Levoglutamide,Neutral_amino_acid_transporter_B0-Substrate,N[C@@H](CCC(N)=O)C(O)=O
+6,Levoglutamide,Neutral_amino_acid_transporter_B0-Inducer,N[C@@H](CCC(N)=O)C(O)=O
+7,Nitric Oxide,Neutral_amino_acid_transporter_B0-Substrate,N=O
+8,Valaciclovir,Neutral_amino_acid_transporter_B0-Substrate,CC(C)[C@H](N)C(=O)OCCOCN1C=NC2=C1N=C(N)NC2=O
+9,Valganciclovir,Neutral_amino_acid_transporter_B0-Substrate,CC(C)[C@H](N)C(=O)OC[C@H](CO)OCN1C=NC2=C1NC(N)=NC2=O

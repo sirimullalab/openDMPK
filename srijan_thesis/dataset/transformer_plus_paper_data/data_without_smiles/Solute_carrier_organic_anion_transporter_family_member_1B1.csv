@@ -1,0 +1,33 @@
+,drug_name,drug_type
+0,Amiodarone,Inhibitor
+1,Atorvastatin,"Substrate,Inducer"
+2,Bezafibrate,Inhibitor
+3,Bosentan,Substrate
+4,Bucladesine,Inducer
+5,Cerivastatin,Substrate
+6,Chenodeoxycholic Acid,Substrate
+7,Ciclosporin,Inhibitor
+8,Digoxin,Substrate
+9,Enalapril,Substrate
+10,Estradiol,Substrate
+11,Estrone,Substrate
+12,Ezetimibe,Substrate
+13,Fluvastatin,Substrate
+14,Gemfibrozil,Inhibitor
+15,Ibuprofen,Inducer
+16,Indium (111In) Pentetic Acid,Substrate
+17,Ketoconazole,Inhibitor
+18,Lopinavir,Inhibitor
+19,Lovastatin,Substrate
+20,Methotrexate,Substrate
+21,Phenobarbital,Inducer
+22,Prasterone,Substrate
+23,Pravastatin,Substrate
+24,Quinidine,Inhibitor
+25,Rifampicin,"Substrate,Inhibitor"
+26,Rifamycin,Inhibitor
+27,Rosuvastatin,"Inhibitor,Substrate"
+28,Silymarin,Inhibitor
+29,Simvastatin,Substrate
+30,Torasemide,Substrate
+31,Ursodeoxycholic Acid,"Inhibitor,Substrate"

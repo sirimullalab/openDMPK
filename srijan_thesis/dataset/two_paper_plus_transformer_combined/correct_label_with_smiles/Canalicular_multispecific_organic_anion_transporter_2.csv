@@ -1,0 +1,11 @@
+,drug_name,drug_type,Smiles
+0,Chenodeoxycholic Acid,Canalicular_multispecific_organic_anion_transporter_2-Inducer,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+1,Estradiol,Canalicular_multispecific_organic_anion_transporter_2-Substrate,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+2,Etoposide,Canalicular_multispecific_organic_anion_transporter_2-Inhibitor,COC1=CC(=CC(OC)=C1O)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](O[C@@H]4O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]4O)C6=CC7=C(OCO7)C=C26
+3,Etoposide,Canalicular_multispecific_organic_anion_transporter_2-Substrate,COC1=CC(=CC(OC)=C1O)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](O[C@@H]4O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]4O)C6=CC7=C(OCO7)C=C26
+4,Methotrexate,Canalicular_multispecific_organic_anion_transporter_2-Inhibitor,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+5,Morphine,Canalicular_multispecific_organic_anion_transporter_2-Substrate,CN1CC[C@@]23[C@H]4OC5=C2C(C[C@@H]1[C@@H]3C=C[C@@H]4O)=CC=C5O
+6,Oxypertine,Canalicular_multispecific_organic_anion_transporter_2-Inducer,COC1=CC2=C(C=C1OC)C(CCN3CCN(CC3)C4=CC=CC=C4)=C(C)N2
+7,Paracetamol,Canalicular_multispecific_organic_anion_transporter_2-Inducer,CC(=O)NC1=CC=C(O)C=C1
+8,Phenobarbital,Canalicular_multispecific_organic_anion_transporter_2-Inducer,CC[C@@]1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2
+9,Prasterone,Canalicular_multispecific_organic_anion_transporter_2-Inducer,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CCC2=O

@@ -1,0 +1,11 @@
+,bao_id,label
+0,BAO_0000006,percent cytotoxicity
+1,BAO_0000007,nucleosome format
+2,BAO_0000008,bioassay type
+3,BAO_0000009,ADMET
+4,BAO_0000010,functional
+5,BAO_0000015,bioassay
+6,BAO_0000016,protein substrate and ligand constant
+7,BAO_0000019,assay format
+8,BAO_0000033,Bmax
+9,BAO_0000034,Kd

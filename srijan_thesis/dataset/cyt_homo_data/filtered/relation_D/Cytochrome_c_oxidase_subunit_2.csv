@@ -1,0 +1,6 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,Smiles,-log10(M) Values,Label
+0,CHEMBL865,CHEMBL967597,67010,Cytochrome c oxidase subunit 2,Homo sapiens,Homo sapiens,D,=,1100.0,nM,IC50,,42618,101472,PROTEIN,SINGLE PROTEIN,9,Cc1onc(c2ccccc2)c1c3ccc(cc3)S(=O)(=O)N,5.959,active
+1,CHEMBL254418,CHEMBL967597,419345,Cytochrome c oxidase subunit 2,Homo sapiens,Homo sapiens,D,=,40.0,nM,IC50,,42618,101472,PROTEIN,SINGLE PROTEIN,9,O.Cc1onc(c2ccccc2)c1c3ccc(cc3)S(=O)(=O)NO,7.398,active
+2,CHEMBL118,CHEMBL999110,18694,Cytochrome c oxidase subunit 2,Homo sapiens,Homo sapiens,D,,,,Activity,Active,42185,101472,PROTEIN,SINGLE PROTEIN,9,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)S(=O)(=O)N)C(F)(F)F,-1.0,active
+3,CHEMBL118,CHEMBL999112,18694,Cytochrome c oxidase subunit 2,Homo sapiens,Homo sapiens,D,,,,Activity,Active,42185,101472,PROTEIN,SINGLE PROTEIN,9,Cc1ccc(cc1)c2cc(nn2c3ccc(cc3)S(=O)(=O)N)C(F)(F)F,-1.0,active
+4,CHEMBL272342,CHEMBL965440,438618,Cytochrome c oxidase subunit 2,Homo sapiens,Homo sapiens,D,,,,Activity,Not Active,42185,101472,PROTEIN,SINGLE PROTEIN,9,OC(=O)c1ccc(CCCc2c(CCNS(=O)(=O)Cc3ccc(Cl)c(Cl)c3)n(C(c4ccccc4)c5ccccc5)c6ccc(Cl)cc26)cc1,-1.0,inactive

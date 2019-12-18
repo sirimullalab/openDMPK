@@ -1,0 +1,11 @@
+,mec_id,record_id,molregno,mechanism_of_action,tid,site_id,action_type,direct_interaction,molecular_mechanism,disease_efficacy,mechanism_comment,selectivity_comment,binding_site_comment
+0,13,1343810,1124,Carbonic anhydrase VII inhibitor,11060,,INHIBITOR,1,1,1,,,
+1,14,1344053,675068,Carbonic anhydrase I inhibitor,10193,,INHIBITOR,1,1,1,,,
+2,15,1344649,674765,Carbonic anhydrase I inhibitor,10193,,INHIBITOR,1,1,1,Expressed in eye,,
+3,16,1343255,1085,Carbonic anhydrase I inhibitor,10193,,INHIBITOR,1,1,1,,,
+4,17,1344903,1125,Carbonic anhydrase I inhibitor,10193,,INHIBITOR,1,1,1,Expressed in eye,,
+5,18,1343810,1124,Carbonic anhydrase I inhibitor,10193,,INHIBITOR,1,1,1,,,
+6,19,1343336,378315,Cytochrome b inhibitor,159,,INHIBITOR,1,1,1,,,
+7,20,1343534,674722,Muscarinic acetylcholine receptor M3 antagonist,219,,ANTAGONIST,1,1,1,"Role in regulating gastric secretion, M3 likely involved",,
+8,21,1343271,1102940,Muscarinic acetylcholine receptor M3 antagonist,219,,ANTAGONIST,1,1,1,"Indicated for overactive bladder, M3 likely responsible",,
+9,22,1343367,230999,Muscarinic acetylcholine receptor M3 antagonist,219,,ANTAGONIST,1,1,1,"Role in regulating gastric secretion and overactive bladded, M3 likely involved",,

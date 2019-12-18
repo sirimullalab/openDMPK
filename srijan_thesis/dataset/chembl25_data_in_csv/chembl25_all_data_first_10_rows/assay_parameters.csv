@@ -1,0 +1,11 @@
+,assay_param_id,assay_id,type,relation,value,units,text_value,standard_type,standard_relation,standard_value,standard_units,standard_text_value,comments
+0,3710880,1640162,assay_method,,,,SPR,assay_method,,,,SPR,
+1,3710881,1640162,data_collection_rate,,10.0,Hz,,data_collection_rate,,10.0,Hz,,
+2,3710882,1640162,fitting_model,,,,1:1 + mass transport,fitting_model,,,,1:1 + mass transport,
+3,3710883,1640162,fitting_parameter_offset,,,,constant,fitting_parameter_offset,,,,constant,
+4,3710884,1640162,fitting_parameter_rmax,,,,global,fitting_parameter_rmax,,,,global,
+5,3710885,1640162,immobilization_buffer_composition,,,,"HBSN 7,4",immobilization_buffer_composition,,,,"HBSN 7,4",
+6,3710886,1640162,immobilization_chip_used,,,,CM5,immobilization_chip_used,,,,CM5,
+7,3710887,1640162,immobilization_contact_time,=,60.0,s,,immobilization_contact_time,=,60.0,s,,
+8,3710888,1640162,immobilization_flow_rate,=,30.0,uL/min,,immobilization_flow_rate,=,30.0,uL/min,,
+9,3710889,1640162,immobilization_method,,,,Amine coupling,immobilization_method,,,,Amine coupling,

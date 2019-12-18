@@ -1,0 +1,2 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,smiles
+0,CHEMBL451887,CHEMBL3536619,520664,Cytochrome P450 3A,Homo sapiens,Homo sapiens,D,=,0.012,/min,Drug metabolism,,92073,106175,PROTEIN,PROTEIN FAMILY,5,CC(C)C[C@H](NC(=O)[C@H](CCc1ccccc1)NC(=O)CN2CCOCC2)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]4(C)CO4

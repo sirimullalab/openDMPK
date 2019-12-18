@@ -1,0 +1,11 @@
+,molregno,pref_name,chembl_id,max_phase,therapeutic_flag,dosed_ingredient,structure_type,chebi_par_id,molecule_type,first_approval,oral,parenteral,topical,black_box_warning,natural_product,first_in_class,chirality,prodrug,inorganic_flag,usan_year,availability_type,usan_stem,polymer_flag,usan_substem,usan_stem_definition,indication_class,withdrawn_flag,withdrawn_year,withdrawn_country,withdrawn_reason,withdrawn_class
+0,1,,CHEMBL6329,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+1,2,,CHEMBL6328,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+2,3,,CHEMBL265667,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+3,4,,CHEMBL6362,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+4,5,,CHEMBL267864,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+5,6,,CHEMBL6363,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+6,7,,CHEMBL6352,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+7,8,,CHEMBL268097,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+8,9,,CHEMBL266457,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,
+9,10,,CHEMBL268556,0,0,0,MOL,,Small molecule,,0,0,0,0,-1,-1,-1,-1,-1,,-1,,0,,,,0,,,,

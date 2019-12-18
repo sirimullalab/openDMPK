@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Cisplatin,Probable_low_affinity_copper_uptake_protein_2-Substrate,N[Pt](N)(Cl)Cl
+1,Silver,Probable_low_affinity_copper_uptake_protein_2-Inhibitor,[Ag]

@@ -1,0 +1,11 @@
+,std_act_id,standard_type,definition,standard_units,normal_range_min,normal_range_max
+0,1,CC50,Concentration required for 50% cytotoxicity,nM,1.0,10000000.0
+1,2,EC50,Effective concentration for 50% activity,nM,0.01,100000.0
+2,3,GI50,Concentration required for 50% growth inhibition,nM,1.0,10000000.0
+3,4,IC50,Concentration required for 50% inhibition,nM,0.01,100000.0
+4,5,Ki,Inhibition constant,nM,0.01,100000.0
+5,6,Solubility,Solubility ,nM,100.0,1000000000.0
+6,7,Solubility,Solubility,ug.mL-1,0.05,50000.0
+7,8,T1/2,Half-life,hr,0.001,10000.0
+8,9,CL,Clearance,mL.min-1.g-1,0.0,10000.0
+9,10,CL,Clearance,mL.min-1.kg-1,0.0,10000.0

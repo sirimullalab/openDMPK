@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Cisplatin,Copper_transporting_ATPase_2-Substrate,N[Pt](N)(Cl)Cl
+1,Cisplatin,Copper_transporting_ATPase_2-Inducer,N[Pt](N)(Cl)Cl

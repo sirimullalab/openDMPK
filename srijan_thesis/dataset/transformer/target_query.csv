@@ -1,0 +1,155 @@
+,target_name,query
+0,1A1,cp1a1_human
+1,1A2,cp1a2_human
+2,1B1,cp1b1_human
+3,2A6,cp2a6_human
+4,2A7,cp2a7_human
+5,2A13,cp2ad_human
+6,2B6,cp2b6_human
+7,2C8,cp2c8_human
+8,2C9,cp2c9_human
+9,2C18,cp2ci_human
+10,2C19,cp2cj_human
+11,2D6,cp2d6_human
+12,2E1,cp2e1_human
+13,2F1,cp2f1_human
+14,2J2,cp2j2_human
+15,2R1,cp2r1_human
+16,2S1,cp2s1_human
+17,2U1,cp2u1_human
+18,2W1,cp2w1_human
+19,3A4,cp3a4_human
+20,3A43,cp343_human
+21,3A5,cp3a5_human
+22,3A7,cp3a7_human
+23,4A11,cp4ab_human
+24,4A20,cp4z1_human
+25,4A22,q5tch4_human
+26,4B1,cp4b1_human
+27,4F11,cp4fb_human
+28,4F12,cp4fc_human
+29,4F2,cp4f2_human
+30,4F22,cp4fn_human
+31,4F3,cp4f3_human
+32,4F8,cp4f8_human
+33,4V2,cp4v2_human
+34,4X1,cp4x1_human
+35,5A1,thas_human
+36,7A1,cp7a1_human
+37,7B1,cp7b1_human
+38,8A1,ptgis_human
+39,8B1,cp8b1_human
+40,11A1,cp11a_human
+41,11B1,c11b1_human
+42,11B2,c11b2_human
+43,17A,cp17a_human
+44,19A,cp19a_human
+45,20A,cp20a_human
+46,21A,cp21a_human
+47,24A,cp24a_human
+48,26A,cp26a_human
+49,26B,cp26b_human
+50,26C,cp26c_human
+51,27A,cp27a_human
+52,27B,cp27b_human
+53,27C,c27c1_human
+54,39A,cp39a_human
+55,46A,cp46a_human
+56,51A,cp51a_human
+57,ACAT,thic_human
+58,GST,q5szc1_human
+59,MET,tpmt_human
+60,NAT,nat10_human
+61,SUL,st1a1_human
+62,UGT,ud11_human
+63,Arachidonic acid epoxygenase,cp2j2_human
+64,"Aldosterone synthase, ALDOS, Aldosterone-synthesizing enzyme, Steroid 18-hydroxylase",c11b2_human
+65,"Aromatase, Estrogen synthetase",cp19a_human
+66,Acetyl-CoA-acetyltransferase,thic_human
+67,ATP-binding cassette sub-family G member 2,ABCG2_HUMAN
+68,ATP-binding cassette transporter sub-family C member 11,ABCCB_HUMAN
+69,ATP-binding cassette sub-family A member 3,ABCA3_HUMAN
+70,Bile salt export pump,ABCBB_HUMAN
+71,Coumarin 7-hydroxylase,cp2a6_human
+72,CP2AD,cp2ad_human
+73,CP2CI,cp2ci_human
+74,CP2F1,cp2f1_human
+75,CP343,cp343_human
+76,CYP4Z1,cp4z1_human
+77,CP4FB,cp4fb_human
+78,CP4FC,cp4fc_human
+79,CP4FN,cp4fn_human
+80,"Cholesterol 7-alpha-monooxygenase, Cholesterol 7-alpha-hydroxylase",cp7a1_human
+81,"Cholesterol side-chain cleavage enzyme, Cholesterol desmolase",cp11a_human
+82,CYP20A1,cp20a_human
+83,CYP26C1,cp26c_human
+84,"Calcidiol 1-monooxygenase, 25-OHD-1 alpha-hydroxylase, 25-hydroxyvitamin D(3) 1-alpha-hydroxylase, VD3 1A hydroxylase, P450C1 alpha, 50VD1-alpha",cp27b_human
+85,Cholesterol 24-hydroxylase,cp46a_human
+86,Chromaffin granule amine transporter,VMAT1_HUMAN
+87,Canalicular multispecific organic anion transporter 2,MRP3_HUMAN
+88,Canalicular multispecific organic anion transporter 1,MRP2_HUMAN
+89,Choline transporter-like protein 2,CTL2_HUMAN
+90,Copper-transporting ATPase 2,ATP7B_HUMAN
+91,Copper-transporting ATPase 1,ATP7A_HUMAN
+92,Equilibrative nucleoside transporter 1,S29A1_HUMAN
+93,Electrogenic sodium bicarbonate cotransporter 1,S4A4_HUMAN
+94,Electroneutral sodium bicarbonate exchanger 1,S4A8_HUMAN
+95,HLp2,cp3a5_human
+96,High affinity copper uptake protein 1,COPT1_HUMAN
+97,Ileal sodium/bile acid cotransporter,NTCP2_HUMAN
+98,Methyltransferase,tpmt_human
+99,Multidrug resistance protein 1,MDR1_HUMAN
+100,Multidrug resistance-associated protein 1,MRP1_HUMAN
+101,Monocarboxylate transporter 1,MOT1_HUMAN
+102,Multidrug resistance-associated protein 4,MRP4_HUMAN
+103,Multidrug resistance-associated protein 5,MRP5_HUMAN
+104,Monocarboxylate transporter 2,MOT2_HUMAN
+105,Multidrug resistance-associated protein 7,MRP7_HUMAN
+106,Multidrug resistance protein 3,MDR3_HUMAN
+107,Multidrug and toxin extrusion protein 1,S47A1_HUMAN
+108,Monocarboxylate transporter 4,MOT4_HUMAN
+109,Monocarboxylate transporter 10,MOT10_HUMAN
+110,N-acetyltransferase,nat10_human
+111,Neutral amino acid transporter B(0),AAAT_HUMAN
+112,P450-HFLA,cp3a7_human
+113,P450-HP,cp4b1_human
+114,"Prostacyclin synthase, Prostaglandin I2 synthase, PTGIS",ptgis_human
+115,Proton-coupled folate transporter,PCFT_HUMAN
+116,Proton-coupled amino acid transporter 1,S36A1_HUMAN
+117,Probable low affinity copper uptake protein 2,COPT2_HUMAN
+118,S-mephenytoin 4-hydroxylase,cp2c8_human
+119,Steroid 11-beta-hydroxylase,c11b1_human
+120,"Steroid 17-alpha-monooxygenase, Steroid 17-alpha-hydroxylase/17,20 lyase",cp17a_human
+121,"Steroid 21-hydroxylase, 21-OHase",cp21a_human
+122,"Sterol 26-hydroxylase, Sterol 27-hydroxylase, Vitamin D(3) 25-hydroxylase, 5-beta-cholestane-3-alpha, 7-alpha,12-alpha-triol 27-hydroxylase",cp27a_human
+123,"Sterol 14-alpha demethylase, Lanosterol 14-alpha demethylase",cp51a_human
+124,Sulfotransferase,st1a1_human
+125,Solute carrier family 22 member 1,S22A1_HUMAN
+126,Solute carrier family 15 member 1,S15A1_HUMAN
+127,Solute carrier organic anion transporter family member 2B1,SO2B1_HUMAN
+128,Solute carrier organic anion transporter family member 1B1,SO1B1_HUMAN
+129,Solute carrier organic anion transporter family member 1A2,SO1A2_HUMAN
+130,Sodium/bile acid cotransporter,NTCP_HUMAN
+131,Solute carrier family 22 member 6,S22A6_HUMAN
+132,Solute carrier family 22 member 8,S22A8_HUMAN
+133,Solute carrier organic anion transporter family member 1B3,SO1B3_HUMAN
+134,Solute carrier family 12 member 1,S12A1_HUMAN
+135,Solute carrier family 12 member 2,S12A2_HUMAN
+136,Solute carrier family 22 member 3,S22A3_HUMAN
+137,Solute carrier family 12 member 5,S12A5_HUMAN
+138,Solute carrier family 22 member 11,S22AB_HUMAN
+139,Sodium-coupled neutral amino acid transporter 3,S38A3_HUMAN
+140,Solute carrier family 22 member 2,S22A2_HUMAN
+141,Solute carrier organic anion transporter family member 2A1,SO2A1_HUMAN
+142,Solute carrier family 22 member 5,S22A5_HUMAN
+143,Solute carrier organic anion transporter family member 3A1,SO3A1_HUMAN
+144,Solute carrier family 22 member 7,S22A7_HUMAN
+145,Solute carrier family 28 member 3,S28A3_HUMAN
+146,Solute carrier organic anion transporter family member 1C1,SO1C1_HUMAN
+147,Solute carrier family 15 member 2,S15A2_HUMAN
+148,Solute carrier family 12 member 4,S12A4_HUMAN
+149,Solute carrier organic anion transporter family member 4C1,SO4C1_HUMAN
+150,Solute carrier family 22 member 4,S22A4_HUMAN
+151,Sodium-dependent serotonin transporter,SC6A4_HUMAN
+152,Sodium-dependent noradrenaline transporter,SC6A2_HUMAN
+153,Solute carrier organic anion transporter family member 4A1,SO4A1_HUMAN

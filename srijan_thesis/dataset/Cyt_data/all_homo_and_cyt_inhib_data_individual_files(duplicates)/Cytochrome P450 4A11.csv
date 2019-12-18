@@ -1,0 +1,16 @@
+,Unnamed: 0,compound_id,assay_id,compound_molregno,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,pref_name
+0,8562,CHEMBL3508698,CHEMBL3509251,1923867,Homo sapiens,Homo sapiens,D,=,3100.0,nM,Km,OUTCOME = Detected,91892,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+1,8563,CHEMBL3508698,CHEMBL3509260,1923867,Homo sapiens,Homo sapiens,D,=,15.5,pmol.min.mg-1,Vmax,OUTCOME = Detected,91892,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+2,8564,CHEMBL3508698,CHEMBL3509269,1923867,Homo sapiens,Homo sapiens,D,=,4.9,ul.min.nmol-1,CL,OUTCOME = Detected,91892,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+3,8565,CHEMBL483254,CHEMBL3538476,499179,Homo sapiens,Homo sapiens,D,=,59.0,%,Stability,,91925,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+4,8566,CHEMBL3527525,CHEMBL3538477,1925233,Homo sapiens,Homo sapiens,D,=,37.0,%,Drug metabolism,,91925,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+5,8567,CHEMBL3526396,CHEMBL3538477,1924092,Homo sapiens,Homo sapiens,D,=,1.5,%,Drug metabolism,,91925,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+6,8568,CHEMBL3526395,CHEMBL3538477,1924091,Homo sapiens,Homo sapiens,D,=,2.0,%,Drug metabolism,,91925,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+7,8569,CHEMBL1783834,CHEMBL3536228,1150505,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_not_detected,92069,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+8,8570,CHEMBL3526818,CHEMBL3533015,1924519,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_not_detected,92030,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+9,8571,CHEMBL3526952,CHEMBL3535404,1924654,Homo sapiens,Homo sapiens,D,=,0.031,uL/min.mg,Vmax/Km,,92025,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+10,8572,CHEMBL3542381,CHEMBL3532134,1925508,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,92051,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+11,8573,CHEMBL3526952,CHEMBL3528381,1924654,Homo sapiens,Homo sapiens,D,=,82700.0,nM,Km,,92025,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+12,8574,CHEMBL3526952,CHEMBL3528381,1924654,Homo sapiens,Homo sapiens,D,=,2.57,pmol/mg.min,Vmax(app),,92025,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+13,8575,CHEMBL3526952,CHEMBL3528397,1924654,Homo sapiens,Homo sapiens,D,=,0.48,pmol/min,Drug metabolism,,92025,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11
+14,8576,CHEMBL3542336,CHEMBL3529775,1925463,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,metabolite_detected,92051,11187,PROTEIN,SINGLE PROTEIN,9,Cytochrome P450 4A11

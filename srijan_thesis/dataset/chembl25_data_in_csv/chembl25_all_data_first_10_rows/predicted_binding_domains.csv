@@ -1,0 +1,11 @@
+,predbind_id,activity_id,site_id,prediction_method,confidence
+0,2532429,463000,196,Single domain,high
+1,2532430,465991,476,Single domain,high
+2,2532431,467406,286,Single domain,high
+3,2532432,468562,1311,Single domain,high
+4,2532433,468743,782,Single domain,high
+5,2532434,468764,476,Single domain,high
+6,2532435,469035,357,Single domain,high
+7,2532436,393609,161,Single domain,high
+8,2532437,393946,792,Single domain,high
+9,2532438,394502,794,Single domain,high

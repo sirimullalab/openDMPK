@@ -1,0 +1,11 @@
+,src_id,src_description,src_short_name
+0,0,Undefined,UNDEFINED
+1,1,Scientific Literature,LITERATURE
+2,2,GSK Malaria Screening,GSK_TCMDC
+3,3,Novartis Malaria Screening,NOVARTIS
+4,4,St Jude Malaria Screening,ST_JUDE
+5,5,Sanger Institute Genomics of Drug Sensitivity in Cancer,SANGER
+6,6,PDBe Ligands,PDBE
+7,7,PubChem BioAssays,PUBCHEM_BIOASSAY
+8,8,Clinical Candidates,CANDIDATES
+9,9,Orange Book,ORANGE_BOOK

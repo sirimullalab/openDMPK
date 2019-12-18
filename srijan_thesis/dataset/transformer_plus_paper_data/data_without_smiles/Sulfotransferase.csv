@@ -1,0 +1,48 @@
+,drug_name,drug_type
+0,Acetylsalicylic Acid,"Inhibitor,Substrate"
+1,Adenosine,Substrate
+2,Aminobenzoic Acid,Substrate
+3,Apomorphine,Substrate
+4,Bemiparin,Substrate
+5,Betamethason,Inducer
+6,Budesonide,Substrate
+7,Calcitriol,Inducer
+8,Celecoxib,"Inhibitor,Substrate"
+9,Cholic Acid,Substrate
+10,Clioquinol,"Inhibitor,Substrate"
+11,Corticotropin,Inducer
+12,Cortisone,Inhibitor
+13,Diethyl Ether,Inducer
+14,Digitoxin,Substrate
+15,Ephedrin,Substrate
+16,Epinephrine,"Substrate,Inducer"
+17,Estradiol,"Inducer,Substrate"
+18,Fluphenazine,Inhibitor
+19,Galactose,Substrate
+20,Hydrocortisone,"Inducer,Inhibitor"
+21,Ibuprofen,Inhibitor
+22,Insulin (human),Inducer
+23,Methotrexate,Inducer
+24,Methyldopa (levorotatory),Substrate
+25,Minoxidil,Substrate
+26,Naproxen,Inhibitor
+27,Paclitaxel,Inhibitor
+28,Pantoprazole,Substrate
+29,Paracetamol,Substrate
+30,Pipamperone,Inhibitor
+31,Progesterone,"Inducer,Substrate"
+32,Promegestone,Inducer
+33,Pseudoephedrine,Substrate
+34,Pyridoxal Phosphate,Inhibitor
+35,Ritodrine,Substrate
+36,Salicylic Acid,Inhibitor
+37,Sodium Citrate,Inhibitor
+38,Sodium Salicylate,Inhibitor
+39,Sulindac,Inhibitor
+40,Tamoxifen,"Substrate,Inducer"
+41,Teicoplanin,Substrate
+42,Testosterone,Inducer
+43,Tibolone,"Substrate,Inducer"
+44,Triamcinolone,Inducer
+45,Triclosan,Inhibitor
+46,Warfarin,"Inhibitor,Substrate"

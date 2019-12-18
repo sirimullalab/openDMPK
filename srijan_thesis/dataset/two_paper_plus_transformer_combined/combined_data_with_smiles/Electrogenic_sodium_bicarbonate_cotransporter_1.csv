@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Sodium Bicarbonate,Substrate,OC([O-])=O
+1,Tenidap,Inhibitor,NC(=O)N1C(=O)C(=C(/O)C2=CC=CS2)C3=C1C=CC(Cl)=C3

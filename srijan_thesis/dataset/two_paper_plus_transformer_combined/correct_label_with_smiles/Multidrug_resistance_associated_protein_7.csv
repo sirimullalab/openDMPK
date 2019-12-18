@@ -1,0 +1,4 @@
+,drug_name,drug_type,Smiles
+0,Doxorubicin,Multidrug_resistance_associated_protein_7-Inducer,COC1=CC=CC2=C1C(=O)C3=C(O)C4=C(C[C@](O)(C[C@@H]4O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C(=O)CO)C(O)=C3C2=O
+1,Paclitaxel,Multidrug_resistance_associated_protein_7-Inducer,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)C4=CC=CC=C4)[C@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C6=CC=CC=C6)C7=CC=CC=C7)C(C)=C1C5(C)C
+2,Sulfinpyrazon,Multidrug_resistance_associated_protein_7-Inhibitor,O=C1[C@H](CCS(=O)C2=CC=CC=C2)C(=O)N(N1C3=CC=CC=C3)C4=CC=CC=C4

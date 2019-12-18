@@ -1,0 +1,7 @@
+,drug_name,drug_type,Smiles
+0,Acetylcarnitine,Substrate,CC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
+1,Cefepime,Inhibitor,CON=C(/C(=O)N[C@H]1[C@H]2SCC(C[N@+]3(C)CCCC3)=C(N2C1=O)C([O-])=O)C4=CSC(N)=N4
+2,Levocarnitine,Substrate,C[N+](C)(C)C[C@H](O)CC([O-])=O
+3,Mepyramine,Substrate,COC1=CC=C(CN(CCN(C)C)C2=CC=CC=N2)C=C1
+4,Potassium Chloride,Substrate,[Cl-].[K+]
+5,Verapamil,Substrate,COC1=C(OC)C=C(CCN(C)CCC[C@](C#N)(C(C)C)C2=CC(OC)=C(OC)C=C2)C=C1

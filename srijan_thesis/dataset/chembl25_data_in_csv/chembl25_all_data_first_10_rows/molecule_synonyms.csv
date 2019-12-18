@@ -1,0 +1,11 @@
+,molregno,syn_type,molsyn_id,res_stem_id,synonyms
+0,97,RESEARCH_CODE,1,152.0,CP-12299
+1,97,FDA,4,,Prazosin
+2,111,OTHER,6,,Zomepirac Sodium
+3,115,USAN,11,,Nicotine
+4,194,RESEARCH_CODE,51,152.0,CP-45899
+5,194,FDA,52,,Sulbactam
+6,198,RESEARCH_CODE,54,523.0,SC-58272
+7,33055,USAN,55,,Piperacillin
+8,207,FDA,60,,Tazobactam
+9,223,RESEARCH_CODE,65,137.0,CI-934

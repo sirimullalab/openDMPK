@@ -1,0 +1,8 @@
+,drug_name,drug_type,Smiles
+0,Cisplatin,High_affinity_copper_uptake_protein_1-Inhibitor,N[Pt](N)(Cl)Cl
+1,Cisplatin,High_affinity_copper_uptake_protein_1-Substrate,N[Pt](N)(Cl)Cl
+2,Copper Sulfate,High_affinity_copper_uptake_protein_1-Substrate,[O-]S([O-])(=O)=O
+3,Copper Sulfate,High_affinity_copper_uptake_protein_1-Inhibitor,[O-]S([O-])(=O)=O
+4,Estradiol,High_affinity_copper_uptake_protein_1-Inducer,C[C@@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@H]2O
+5,Silver,High_affinity_copper_uptake_protein_1-Inhibitor,[Ag]
+6,Silver,High_affinity_copper_uptake_protein_1-Substrate,[Ag]

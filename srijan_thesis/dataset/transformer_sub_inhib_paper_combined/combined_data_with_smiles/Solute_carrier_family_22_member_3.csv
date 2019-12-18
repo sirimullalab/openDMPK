@@ -1,0 +1,4 @@
+,drug_name,drug_type,Smiles
+0,Acetylcholin,Substrate,CC(=O)OCC[N+](C)(C)C
+1,Desipramine,Substrate,CNCCCN1C2=C(CCC3=C1C=CC=C3)C=CC=C2
+2,Sodium Chloride,Substrate,[Na+].[Cl-]

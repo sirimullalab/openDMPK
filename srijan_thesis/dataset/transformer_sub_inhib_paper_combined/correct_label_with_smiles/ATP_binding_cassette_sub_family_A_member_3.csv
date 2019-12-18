@@ -1,0 +1,5 @@
+,drug_name,drug_type,Smiles
+0,Doxorubicin,ATP_binding_cassette_sub_family_A_member_3-Inducer,COC1=CC=CC2=C1C(=O)C3=C(O)C4=C(C[C@](O)(C[C@@H]4O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C(=O)CO)C(O)=C3C2=O
+1,Imatinib,ATP_binding_cassette_sub_family_A_member_3-Inhibitor,CN1CCN(CC1)CC2=CC=C(C=C2)C(=O)NC3=CC(NC4=NC=CC(=N4)C5=CC=CN=C5)=C(C)C=C3
+2,Methotrexate,ATP_binding_cassette_sub_family_A_member_3-Inducer,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+3,Mitoxantrone,ATP_binding_cassette_sub_family_A_member_3-Substrate,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C3=C(O)C=CC(O)=C3C2=O

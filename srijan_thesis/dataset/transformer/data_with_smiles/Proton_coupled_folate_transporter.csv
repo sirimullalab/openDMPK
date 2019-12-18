@@ -1,0 +1,6 @@
+,drug_name,drug_type,Smiles
+0,Etoposide,Inducer,COC1=CC(=CC(OC)=C1O)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](O[C@@H]4O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]4O)C6=CC7=C(OCO7)C=C26
+1,Folic Acid,Substrate,NC1=NC(=O)C2=C(N1)N=CC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=N2
+2,Methotrexate,Substrate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+3,Pemetrexed,Substrate,NC1=NC2=C(C(=O)N1)C(CCC3=CC=C(C=C3)C(=O)N[C@H](CCC(O)=O)C(O)=O)=CN2
+4,Sulfasalazine,Inhibitor,OC(=O)C1=C(O)C=CC(=C1)N=NC2=CC=C(C=C2)S(=O)(=O)NC3=CC=CC=N3

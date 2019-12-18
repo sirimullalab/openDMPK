@@ -1,0 +1,18 @@
+,drug_name,drug_type
+0,Aminohippuric Acid,Substrate
+1,Amoxicillin,"Substrate,Inhibitor"
+2,Cefaclor,Inhibitor
+3,Cefazolin,Substrate
+4,Cidofovir,Substrate
+5,Cimetidine,Inhibitor
+6,Famotidine,Substrate
+7,Fluorescein,Substrate
+8,Furosemide,Inhibitor
+9,Indometacin,Inhibitor
+10,Lumiracoxib,Inhibitor
+11,Meropenem,Substrate
+12,Methotrexate,Substrate
+13,Mycophenolic Acid,Substrate
+14,Piroxicam,Inhibitor
+15,Probenecid,Inhibitor
+16,Simvastatin,Inhibitor

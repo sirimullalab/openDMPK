@@ -1,0 +1,4 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,Smiles,-log10(M) Values,Label
+0,CHEMBL226646,CHEMBL889286,381897,Cytochrome b5,Homo sapiens,Homo sapiens,D,,,,Activity,Not Active,36050,101468,PROTEIN,SINGLE PROTEIN,9,Cc1oc(nn1)c2ccc(nn2)N3CCC(CC3)Oc4cc(F)ccc4Cl,-1,inactive
+1,CHEMBL226646,CHEMBL889287,381897,Cytochrome b5,Homo sapiens,Homo sapiens,D,,,,Activity,Not Active,36050,101468,PROTEIN,SINGLE PROTEIN,9,Cc1oc(nn1)c2ccc(nn2)N3CCC(CC3)Oc4cc(F)ccc4Cl,-1,inactive
+2,CHEMBL469169,CHEMBL979984,488253,Cytochrome b5,,Homo sapiens,H,,,,Activity,Not Active,44039,101468,PROTEIN,SINGLE PROTEIN,8,CNC(=O)c1cccc(NC(=O)N2CCC(CC2)Oc3ccccc3Cl)c1,-1,inactive

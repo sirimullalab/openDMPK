@@ -1,0 +1,11 @@
+,met_id,drug_record_id,substrate_record_id,metabolite_record_id,pathway_id,pathway_key,enzyme_name,enzyme_tid,met_conversion,organism,tax_id,met_comment
+0,119,2468083,2468090,2468102,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+1,120,2468083,2468083,2468093,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+2,121,2468083,2468083,2468103,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+3,122,2468083,2468083,2468094,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+4,123,2468083,2468083,2468090,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+5,124,2468083,2468090,2468091,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+6,125,2468083,2468090,2468092,1,"Fig. 2, p.19",,,,Homo sapiens,9606,
+7,127,2468125,2468125,2468129,3,"Fig. 9, p164/165",,,O-dealkylation,Homo sapiens,9606,
+8,128,2468125,2468125,2468129,2,"Fig. 2.1.4.1, p.46",,,O-demethylation of the methoxypropoxy side chain,Callithrix jacchus,9483,
+9,129,2468125,2468125,2468129,1,"Fig. 2, p.19",,,Oxidative dealkylation,Homo sapiens,9606,

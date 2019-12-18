@@ -1,0 +1,19 @@
+,drug_name,drug_type,Smiles
+0,Aminohippuric Acid,Substrate,NC1=CC=C(C=C1)C(=O)NCC(O)=O
+1,Amoxicillin,Substrate,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(O)=O
+2,Amoxicillin,Inhibitor,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(O)=O
+3,Cefaclor,Inhibitor,N[C@@H](C(=O)N[C@H]1[C@H]2SCC(Cl)=C(N2C1=O)C(O)=O)C3=CC=CC=C3
+4,Cefazolin,Substrate,CC1=NN=C(SCC2=C(N3[C@H](SC2)[C@H](NC(=O)CN4C=NN=N4)C3=O)C(O)=O)S1
+5,Cidofovir,Substrate,NC1=NC(=O)N(C[C@@H](CO)OCP(O)(O)=O)C=C1
+6,Cimetidine,Inhibitor,CNC(NCCSCC1=C(C)NC=N1)=N/C#N
+7,Famotidine,Substrate,NC(N)=NC1=NC(CSCCC(N)=N/S(N)(=O)=O)=CS1
+8,Fluorescein,Substrate,OC1=CC2=C(C=C1)[C@]3(OC(=O)C4=C3C=CC=C4)C5=C(O2)C=C(O)C=C5
+9,Furosemide,Inhibitor,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl
+10,Indometacin,Inhibitor,COC1=CC2=C(C=C1)N(C(C)=C2CC(O)=O)C(=O)C3=CC=C(Cl)C=C3
+11,Lumiracoxib,Inhibitor,CC1=CC(CC(O)=O)=C(NC2=C(Cl)C=CC=C2F)C=C1
+12,Meropenem,Substrate,C[C@@H](O)[C@@H]1[C@H]2[C@@H](C)C(S[C@H]3CC[C@H](N3)C(=O)N(C)C)=C(N2C1=O)C(O)=O
+13,Methotrexate,Substrate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+14,Mycophenolic Acid,Substrate,COC1=C(C)C2=C(C(O)=C1CC=C(/C)CCC(O)=O)C(=O)OC2
+15,Piroxicam,Inhibitor,CN1C(C(=O)NC2=CC=CC=N2)=C(O)C3=C(C=CC=C3)S1(=O)=O
+16,Probenecid,Inhibitor,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O
+17,Simvastatin,Inhibitor,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12

@@ -1,0 +1,12 @@
+,drug_name,drug_type,Smiles
+0,Bumetanide,Inhibitor,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O
+1,Bumetanide,Substrate,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O
+2,Desmopressin,Inducer,NC(=N)NCCC[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H]2CSSCCC(=O)N[C@H](CC3=CC=C(O)C=C3)C(=O)N[C@H](CC4=CC=CC=C4)C(=O)N[C@H](CCC(N)=O)C(=O)N[C@H](CC(N)=O)C(=O)N2)C(=O)NCC(N)=O
+3,Furosemide,Inducer,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl
+4,Hydrochlorothiazide,Inducer,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1Cl
+5,Lithium,Inducer,[Li]
+6,Nitric Oxide,Inhibitor,N=O
+7,Potassium Chloride,Substrate,[Cl-].[K+]
+8,Sodium Chloride,Inducer,[Na+].[Cl-]
+9,Sodium Chloride,Substrate,[Na+].[Cl-]
+10,Vasopressin,Inducer,CC[C@H](C)[C@H]1NC(=O)[C@@H](CC2=CC=C(O)C=C2)NC(=O)[C@@H](N)CSSC[C@@H](NC(=O)[C@@H](CC(N)=O)NC(=O)[C@@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(N)=O

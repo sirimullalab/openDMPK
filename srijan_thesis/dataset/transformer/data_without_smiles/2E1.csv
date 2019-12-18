@@ -1,0 +1,156 @@
+,drug_name,drug_type
+0,Acarbose,"Inducer,Inhibitor"
+1,Acetic Acid,Substrate
+2,Ademetionine,"Inhibitor,Substrate"
+3,Allopurinol,Inhibitor
+4,Alosetron,Inhibitor
+5,Aminophylline,Substrate
+6,Amitriptyline,"Substrate,Inhibitor"
+7,Azelastine,Inhibitor
+8,Benzocaine,Inhibitor
+9,Benzydamine,Substrate
+10,Bifonazole,Inhibitor
+11,Bromazepam,Inhibitor
+12,Brompheniramine,Substrate
+13,Bupropion,Substrate
+14,Caffeine,Substrate
+15,Capsaicin,Substrate
+16,Carbamide,Inducer
+17,Carbinoxamine,Substrate
+18,Carvedilol,Substrate
+19,Chloroform,Substrate
+20,Chloroxylenol,Substrate
+21,Chlorpromazine,Inhibitor
+22,Chlorzoxazone,"Inhibitor,Substrate"
+23,Cimetidine,Inhibitor
+24,Ciprofloxacin,Inducer
+25,Cisplatin,"Substrate,Inducer"
+26,Citalopram,Substrate
+27,Clofibrate,Inducer
+28,Clomethiazole,Inhibitor
+29,Clomifene,Inhibitor
+30,Clotrimazole,Inhibitor
+31,Clozapine,Inhibitor
+32,Colchicine,Inducer
+33,Dacarbazine,Substrate
+34,Dapsone,Substrate
+35,Desipramine,Inhibitor
+36,Dexfenfluramine,Inhibitor
+37,Dextromethorphan,Substrate
+38,Diazepam,Inducer
+39,Diclofenac,Inhibitor
+40,Diethyl Ether,Inducer
+41,Diethyltoluamide,Substrate
+42,Disulfiram,"Substrate,Inhibitor"
+43,Dopamine,Inhibitor
+44,Dorzolamide,Substrate
+45,Econazole,Inhibitor
+46,Enflurane,Substrate
+47,Entacapone,Inhibitor
+48,Estrone,Substrate
+49,Eszopiclone,Substrate
+50,Ethanol,"Inducer,Inhibitor,Substrate"
+51,Ethosuximide,Substrate
+52,Etoposide,Substrate
+53,Etoricoxib,Inhibitor
+54,Felbamate,Substrate
+55,Flufenamic Acid,Inducer
+56,Flumequine,Inhibitor
+57,Fluoxetine,Substrate
+58,Fluphenazine,Inhibitor
+59,Flurazepam,Inhibitor
+60,Fluvoxamine,Substrate
+61,Folic Acid,Substrate
+62,Fomepizole,Inhibitor
+63,Furosemide,Substrate
+64,Glucosamine,Substrate
+65,Glucose,Inhibitor
+66,Glycerol,Inducer
+67,Halothane,Substrate
+68,Histamine,Inducer
+69,Imipramine,Inhibitor
+70,Insulin (human),Inhibitor
+71,Ipriflavone,Inducer
+72,Isoflurane,Substrate
+73,Isoniazid,"Inducer,Inhibitor,Substrate"
+74,Isopropanol,"Inducer,Inhibitor"
+75,Isosorbide Dinitrate,Inhibitor
+76,Itraconazole,Inhibitor
+77,Ketoconazole,Inhibitor
+78,Levocarnitine,Substrate
+79,Levomepromazine,Inhibitor
+80,Medazepam,Inhibitor
+81,Medrysone,Inhibitor
+82,Menadione,Substrate
+83,Meprobamate,Substrate
+84,Methazolamide,Inhibitor
+85,Methoxyflurane,Substrate
+86,Metyrapone,Inhibitor
+87,Mexiletine,Substrate
+88,Miconazole,Inhibitor
+89,Mitoxantrone,Substrate
+90,Mizolastine,Inhibitor
+91,Monoethanolamine Oleate,Substrate
+92,Nicardipine,Substrate
+93,Nicotinamide,Inhibitor
+94,Nicotine,"Inducer,Inhibitor,Substrate"
+95,Nifedipine,Inhibitor
+96,Nilvadipine,Substrate
+97,Nortriptyline,Inhibitor
+98,Ondansetron,Substrate
+99,Oxaliplatin,Substrate
+100,Pancreozymin (cholecystokinin),Inhibitor
+101,Paracetamol,"Inducer,Substrate"
+102,Paraoxon,Substrate
+103,Pargyline,Inhibitor
+104,Perazine,Substrate
+105,Phenacetin,Substrate
+106,Phenazone,Substrate
+107,Phenobarbital,"Inducer,Substrate"
+108,Phenol,Substrate
+109,Pilocarpine,Substrate
+110,Pimozide,Inhibitor
+111,Proguanil,Substrate
+112,Propofol,"Inhibitor,Substrate"
+113,Quinidine,Substrate
+114,Retinol (vit A),"Inducer,Substrate"
+115,Rifampicin,"Substrate,Inducer"
+116,Ritonavir,Inhibitor
+117,Salicylic Acid,Inducer
+118,Selegiline,Inhibitor
+119,Sevoflurane,Substrate
+120,Sildenafil,Inhibitor
+121,Sodium Chloride,Inducer
+122,Sodium Salicylate,Inducer
+123,Streptozocin,Inducer
+124,Sulconazole,Inhibitor
+125,Sulfadiazine,Substrate
+126,Sulfanilamide,Inhibitor
+127,Tamoxifen,Substrate
+128,Tegafur,Substrate
+129,Tegaserod,Inhibitor
+130,Tenofovir Disoproxil,Inhibitor
+131,Thalidomide,Inducer
+132,Theobromine,Substrate
+133,Theophylline,Substrate
+134,Thiamazole,Inhibitor
+135,Thiopental,Inhibitor
+136,Thioridazine,Inhibitor
+137,Thiosulfate,Inhibitor
+138,Thiram,Substrate
+139,Tibolone,Inhibitor
+140,Ticlopidine,Inhibitor
+141,Tioconazole,Inhibitor
+142,Tiopronin,Inhibitor
+143,Tocopherol (vit E),Inhibitor
+144,Trabectedin,Substrate
+145,Tranylcypromine,Inhibitor
+146,Tretinoin,Inducer
+147,Trichloroethylene,"Substrate,Inhibitor"
+148,Trimethadione,Substrate
+149,Trospium,Inhibitor
+150,Ursodeoxycholic Acid,"Inducer,Inhibitor"
+151,Vincamine,Substrate
+152,Voglibose,Inducer
+153,Zafirlukast,Inhibitor
+154,Zopiclone,Substrate

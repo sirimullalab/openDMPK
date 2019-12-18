@@ -1,0 +1,2 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,smiles
+0,CHEMBL2409414,CHEMBL2411839,1573837,Cytochrome P450 2W1,Homo sapiens,Homo sapiens,D,,,,Drug metabolism,Active,74419,107632,PROTEIN,SINGLE PROTEIN,9,COc1ccc2[nH]c(cc2c1)C(=O)N3CC(CCl)c4c3ccc5[nH]ccc45

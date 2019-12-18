@@ -1,0 +1,14 @@
+,drug_name,drug_type
+0,Bezafibrate,Inhibitor
+1,Ciprofibrate,Inhibitor
+2,Colestyramine,Inducer
+3,Ezetimibe,Inhibitor
+4,Fenofibrate,Inhibitor
+5,Gemfibrozil,Inhibitor
+6,Glucose,Inducer
+7,Insulin (human),Inhibitor
+8,Metyrapone,Inhibitor
+9,Retinol (vit A),Inhibitor
+10,Rifampicin,Inhibitor
+11,Ritonavir,Inhibitor
+12,Ursodeoxycholic Acid,Inhibitor

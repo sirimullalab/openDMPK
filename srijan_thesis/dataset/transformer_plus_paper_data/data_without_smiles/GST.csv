@@ -1,0 +1,93 @@
+,drug_name,drug_type
+0,Acetylsalicylic Acid,Inducer
+1,Adriamycin,Substrate
+2,Amyl Nitrite,Substrate
+3,Artemisinin,"Inhibitor,Substrate"
+4,Ascorbic Acid (vit C),"Inhibitor,Inducer"
+5,Betacarotene,Inducer
+6,Bucladesine,Inducer
+7,Busulfan,Substrate
+8,Camphora,Inducer
+9,Capsaicin,Inhibitor
+10,Carmustine,Substrate
+11,Chenodeoxycholic Acid,Inhibitor
+12,Chinin,Inhibitor
+13,Chlorambucil,Inducer
+14,Chloroform,Inhibitor
+15,Chloroquine,Inhibitor
+16,Cisapride,Inducer
+17,Cisplatin,"Substrate,Inducer"
+18,Clofibrate,Substrate
+19,Clomipramine,Inhibitor
+20,Cocaine,Inducer
+21,Cyproterone,Inducer
+22,Dactinomycin,Inhibitor
+23,Dicoumarol,Inhibitor
+24,Diethyl Ether,Substrate
+25,Diethylcarbamazine,Inducer
+26,Doxepin,Inhibitor
+27,Doxorubicin,Inducer
+28,Estradiol,Inducer
+29,Etacrynic Acid,"Substrate,Inhibitor"
+30,Finasteride,Inhibitor
+31,Flunarizine,Inducer
+32,Fosfomycin,Substrate
+33,Gabapentin,Inducer
+34,Glucagon,Inhibitor
+35,Glyceryl Trinitrate,Inducer
+36,Glycine,Inducer
+37,Hematin,"Inhibitor,Substrate"
+38,Hydrocortisone,Inducer
+39,Hydrogen Peroxide,"Inhibitor,Inducer"
+40,Ibuprofen,Inducer
+41,Imipramine,Inhibitor
+42,Indometacin,"Inhibitor,Inducer"
+43,Insulin (human),Inducer
+44,Isosorbide Dinitrate,Substrate
+45,Ketoprofen,Inhibitor
+46,Lamotrigine,Inducer
+47,Lentinan,Inhibitor
+48,Levamisole,Inducer
+49,Levetiracetam,Inducer
+50,Melatonin,Inducer
+51,Melphalan,"Substrate,Inducer"
+52,Mequinol,Inducer
+53,Mercaptamine,Inhibitor
+54,Mersalyl,Inhibitor
+55,Metamizole Sodium,Inducer
+56,Methionine,Inducer
+57,Methyldopa (levorotatory),Inhibitor
+58,Nabumetone,Inducer
+59,Nandrolone,Inducer
+60,Nitric Oxide,Inducer
+61,Olanzapine,Inducer
+62,Paracetamol,"Substrate,Inducer"
+63,Pentoxifylline,Inducer
+64,Perindopril,Inhibitor
+65,Phenobarbital,Inducer
+66,Phenytoin,Substrate
+67,Pipamperone,Inducer
+68,Polihexanide,Inhibitor
+69,Primaquine,Inhibitor
+70,Progesterone,"Substrate,Inhibitor"
+71,Propylthiouracil,"Inhibitor,Inducer"
+72,Pyrimethamine,Inhibitor
+73,Retinol (vit A),Inducer
+74,Rofecoxib,Inducer
+75,Sodium Nitrite,Inhibitor
+76,Sulfobromophthalein,Inhibitor
+77,Sulindac,Inducer
+78,Tacrine,Substrate
+79,Tadalafil,Inducer
+80,Tetracycline,Inhibitor
+81,Thiomersal,Inhibitor
+82,Thiotepa,Substrate
+83,Tiaprofenic Acid,Inhibitor
+84,Tienilic Acid,Inhibitor
+85,Tioctic Acid,Inducer
+86,Trabectedin,Substrate
+87,Trichloroethylene,Substrate
+88,Troglitazone,Inducer
+89,Valproic Acid,Inducer
+90,Verapamil,Inducer
+91,Warfarin,Inducer

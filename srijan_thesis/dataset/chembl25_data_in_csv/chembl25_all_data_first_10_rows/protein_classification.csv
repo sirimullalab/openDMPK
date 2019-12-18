@@ -1,0 +1,11 @@
+,protein_class_id,parent_id,pref_name,short_name,protein_class_desc,definition,class_level
+0,0,,Protein class,Protein class,protein class,Root of the ChEMBL protein family classification,0
+1,1,0.0,Enzyme,Enzyme,enzyme,"Biological molecules that possess catalytic activity. They may occur naturally or be synthetically created. Enzymes are usually proteins, however CATALYTIC RNA and CATALYTIC DNA molecules have also been identified. [MESH:D004798]",1
+2,2,0.0,Adhesion,Adhesion,adhesion,"Surface ligands, usually glycoproteins, that mediate cell-to-cell adhesion. Their functions include the assembly and interconnection of various vertebrate systems, as well as maintenance of tissue integration, wound healing, morphogenic movements, cellular migrations, and metastasis. [MESH:D015815]",1
+3,3,0.0,Secreted protein,Secreted,secreted,,1
+4,4,0.0,Structural protein,Structural,structural,,1
+5,5,0.0,Other nuclear protein,Nuclear other,nuclear other,,1
+6,6,1.0,Kinase,Kinase,enzyme  kinase,"A rather large group of enzymes comprising not only those transferring phosphate but also diphosphate, nucleotidyl residues, and others. These have also been subdivided according to the acceptor group. (From Enzyme Nomenclature, 1992) EC 2.7. [MESH:D010770]",2
+7,7,0.0,Other membrane protein,Membrane other,membrane other,,1
+8,8,0.0,Other cytosolic protein,Cytosolic other,cytosolic other,,1
+9,9,0.0,Surface antigen,Surface antigen,surface antigen,"Antigens on surfaces of cells, including infectious or foreign cells or viruses. They are usually protein-containing groups on cell membranes or walls and may be isolated. [MESH:D000954]",1

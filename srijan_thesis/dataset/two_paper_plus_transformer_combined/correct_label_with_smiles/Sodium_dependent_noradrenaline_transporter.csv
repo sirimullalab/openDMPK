@@ -1,0 +1,15 @@
+,drug_name,drug_type,Smiles
+0,Amitriptyline,Sodium_dependent_noradrenaline_transporter-Inhibitor,CN(C)CCC=C1/C2=C(CCC3=C1C=CC=C3)C=CC=C2
+1,Atomoxetine,Sodium_dependent_noradrenaline_transporter-Inhibitor,CNCC[C@@H](OC1=CC=CC=C1C)C2=CC=CC=C2
+2,Cocaine,Sodium_dependent_noradrenaline_transporter-Inducer,COC(=O)[C@H]1[C@H](C[C@H]2CC[C@@H]1N2C)OC(=O)C3=CC=CC=C3
+3,Desipramine,Sodium_dependent_noradrenaline_transporter-Inhibitor,CNCCCN1C2=C(CCC3=C1C=CC=C3)C=CC=C2
+4,Dopamine,Sodium_dependent_noradrenaline_transporter-Substrate,NCCC1=CC(O)=C(O)C=C1
+5,Duloxetine,Sodium_dependent_noradrenaline_transporter-Inhibitor,CNCC[C@H](OC1=CC=CC2=CC=CC=C12)C1=CC=CS1
+6,Metaraminol,Sodium_dependent_noradrenaline_transporter-Substrate,C[C@H](N)[C@H](O)C1=CC(O)=CC=C1
+7,Methylphenidate,Sodium_dependent_noradrenaline_transporter-Substrate,COC(=O)[C@@H]([C@H]1CCCCN1)C2=CC=CC=C2
+8,Norepinephrine,Sodium_dependent_noradrenaline_transporter-Substrate,NC[C@@H](O)C1=CC(O)=C(O)C=C1
+9,Reboxetine,Sodium_dependent_noradrenaline_transporter-Inducer,CCOC1=CC=CC=C1O[C@H]([C@@H]2CNCCO2)C3=CC=CC=C3
+10,Sibutramine,Sodium_dependent_noradrenaline_transporter-Inhibitor,CC(C)C[C@@H](N(C)C)[C@]1(CCC1)C2=CC=C(Cl)C=C2
+11,Sodium Chloride,Sodium_dependent_noradrenaline_transporter-Inducer,[Na+].[Cl-]
+12,Tramadol,Sodium_dependent_noradrenaline_transporter-Inhibitor,COC1=CC=CC(=C1)[C@@]2(O)CCCC[C@@H]2CN(C)C
+13,Vorinostat,Sodium_dependent_noradrenaline_transporter-Inducer,ONC(=O)CCCCCCC(=O)NC1=CC=CC=C1

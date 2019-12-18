@@ -1,0 +1,8 @@
+,drug_name,drug_type,Smiles
+0,Aminolevulinic Acid,Substrate,NCC(=O)CCC(O)=O
+1,Cefadroxil,Substrate,CC1=C(N2[C@H](SC1)[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C2=O)C(O)=O
+2,Fosinopril,Substrate,CCC(=O)O[C@@H](O[P@@](=O)(CCCCC1=CC=CC=C1)CC(=O)N2C[C@@H](C[C@H]2C(O)=O)[C@H]3CCCCC3)C(C)C
+3,Glibenclamide,Inhibitor,COC1=C(C=C(Cl)C=C1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)N[C@H]3CCCCC3
+4,Quinapril,Inhibitor,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CC3=C(C[C@H]2C(O)=O)C=CC=C3
+5,Valaciclovir,Substrate,CC(C)[C@H](N)C(=O)OCCOCN1C=NC2=C1N=C(N)NC2=O
+6,Valganciclovir,Inhibitor,CC(C)[C@H](N)C(=O)OC[C@H](CO)OCN1C=NC2=C1NC(N)=NC2=O

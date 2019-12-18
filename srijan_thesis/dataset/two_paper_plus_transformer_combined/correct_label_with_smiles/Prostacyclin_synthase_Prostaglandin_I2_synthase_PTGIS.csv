@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Minoxidil,Prostacyclin_synthase_Prostaglandin_I2_synthase_PTGIS-Inhibitor,NC1=[N+]([O-])C(N)=NC(=C1)N2CCCCC2
+1,Tranylcypromine,Prostacyclin_synthase_Prostaglandin_I2_synthase_PTGIS-Inhibitor,N[C@H]1C[C@@H]1C2=CC=CC=C2

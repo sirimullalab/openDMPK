@@ -1,0 +1,7 @@
+,drug_name,drug_type,Smiles
+0,Cefalexin,Multidrug_and_toxin_extrusion_protein_1-Substrate,CC1=C(N2[C@H](SC1)[C@H](NC(=O)[C@H](N)C3=CC=CC=C3)C2=O)C(O)=O
+1,Chloroquine,Multidrug_and_toxin_extrusion_protein_1-Inhibitor,CCN(CC)CCC[C@@H](C)NC1=CC=NC2=C1C=CC(Cl)=C2
+2,Chloroquine,Multidrug_and_toxin_extrusion_protein_1-Substrate,CCN(CC)CCC[C@@H](C)NC1=CC=NC2=C1C=CC(Cl)=C2
+3,Mephenoxalone,Multidrug_and_toxin_extrusion_protein_1-Substrate,COC1=C(OC[C@H]2CNC(=O)O2)C=CC=C1
+4,Metformin,Multidrug_and_toxin_extrusion_protein_1-Substrate,CN(C)C(=N)NC(N)=N
+5,Trimethoprim,Multidrug_and_toxin_extrusion_protein_1-Inhibitor,COC1=CC(CC2=C(N)N=C(N)N=C2)=CC(OC)=C1OC

@@ -1,0 +1,3 @@
+,drug_name,drug_type,Smiles
+0,Cisplatin,Substrate,N[Pt](N)(Cl)Cl
+1,Cisplatin,Inducer,N[Pt](N)(Cl)Cl

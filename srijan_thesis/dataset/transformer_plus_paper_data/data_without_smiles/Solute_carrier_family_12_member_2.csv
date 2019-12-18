@@ -1,0 +1,17 @@
+,drug_name,drug_type
+0,Adenosine,Inducer
+1,Bumetanide,Inhibitor
+2,Cisplatin,Inducer
+3,Estradiol,Inducer
+4,Furosemide,Inhibitor
+5,Glibenclamide,Inhibitor
+6,Kanamycin,Inhibitor
+7,Lithium,Inducer
+8,Methoxamine,Inducer
+9,Nitric Oxide,Inhibitor
+10,Nitroprusside,Inhibitor
+11,Oxygen,Inducer
+12,Oxytocin,Inducer
+13,Phenylephrine,Inducer
+14,Potassium Chloride,Substrate
+15,Sodium Chloride,Substrate

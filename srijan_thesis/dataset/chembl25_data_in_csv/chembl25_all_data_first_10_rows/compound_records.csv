@@ -1,0 +1,11 @@
+,record_id,molregno,doc_id,compound_key,compound_name,src_id,src_compound_id,cidx
+0,1,1798298,11788,X,"Bis(3-[14-Benzyl-11-(1H-indol-3-ylmethyl)-2-isobutyl-13-methyl-5-(2-methylsulfanyl-ethyl)-3,6,9,12,15,20-hexaoxo-1,4,7,10,13,16-hexaaza-bicyclo[15.2.1]icos-18-en-8-yl]-propionamide)",1,,CLD0
+1,2,1798410,11788,V,"3-[11,14-Dibenzyl-2-isobutyl-5-(2-methylsulfanyl-ethyl)-3,6,9,12,15,20-hexaoxo-1,4,7,10,13,16-hexaaza-bicyclo[15.2.1]icos-18-en-8-yl]-propionamide",1,,CLD0
+2,3,1798299,11788,IX,"3-[14-Benzyl-11-(1H-indol-3-ylmethyl)-2-isobutyl-13-methyl-5-(2-methylsulfanyl-ethyl)-3,6,9,12,15,20-hexaoxo-1,4,7,10,13,16-hexaaza-bicyclo[15.2.1]icos-18-en-8-yl]-propionamide",1,,CLD0
+3,4,1798271,11788,IV,"11,14-Dibenzyl-2-isobutyl-8-methyl-5-(2-methylsulfanyl-ethyl)-1,4,7,10,13,16-hexaaza-bicyclo[15.2.1]icos-18-ene-3,6,9,12,15,20-hexaone",1,,CLD0
+4,5,1798623,11788,XVI,"3-[17-Benzyl-14-(1H-indol-3-ylmethyl)-2-isobutyl-5-(2-methylsulfanyl-ethyl)-3,6,9,12,15,18,23-heptaoxo-1,4,7,10,13,16,19-heptaaza-bicyclo[18.2.1]tricos-21-en-11-yl]-propionamide",1,,CLD0
+5,6,1798230,11788,XIX,"3-[5-Benzyl-8-(1H-indol-3-ylmethyl)-17-isobutyl-14-(2-methylsulfanyl-ethyl)-4,7,10,13,16,19-hexaoxo-octadecahydro-3a,6,9,12,15,18-hexaaza-cyclopentacyclooctadecen-11-yl]-propionamide",1,,CLD0
+6,7,1798624,11788,III,"11,14-Dibenzyl-2-isobutyl-5-(2-methylsulfanyl-ethyl)-1,4,7,10,13,16-hexaaza-bicyclo[15.2.1]icos-18-ene-3,6,9,12,15,20-hexaone",1,,CLD0
+7,8,1798627,11788,VII,"14-Benzyl-2-isobutyl-11-methyl-5-(2-methylsulfanyl-ethyl)-11-naphthalen-1-yl-1,4,7,10,13,16-hexaaza-bicyclo[15.2.1]icos-18-ene-3,6,9,12,15,20-hexaone",1,,CLD0
+8,9,1798073,11788,XII,"3-[17,20-Dibenzyl-2-isobutyl-5-(2-methylsulfanyl-ethyl)-3,6,12,15,18,21,26-heptaoxo-1,4,7,13,16,19,22-heptaaza-tricyclo[21.2.1.0*7,11*]hexacos-24-en-14-yl]-propionamide",1,,CLD0
+9,10,1798122,11788,XIV,"3-[17-Benzyl-14-(4-hydroxy-benzyl)-2-isobutyl-5-(2-methylsulfanyl-ethyl)-3,6,9,12,15,18,23-heptaoxo-1,4,7,10,13,16,19-heptaaza-bicyclo[18.2.1]tricos-21-en-11-yl]-propionamide",1,,CLD0

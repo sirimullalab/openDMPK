@@ -1,0 +1,10 @@
+,drug_name,drug_type
+0,Aciclovir,Substrate
+1,Ganciclovir,Substrate
+2,Glycine,Substrate
+3,Insulin (human),Inducer
+4,Levocarnitine,Substrate
+5,Levoglutamide,"Substrate,Inducer"
+6,Nitric Oxide,Substrate
+7,Valaciclovir,Substrate
+8,Valganciclovir,Substrate

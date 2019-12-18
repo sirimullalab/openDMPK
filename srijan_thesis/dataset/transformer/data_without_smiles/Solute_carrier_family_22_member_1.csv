@@ -1,0 +1,20 @@
+,drug_name,drug_type
+0,Acetylcholin,Substrate
+1,Amiloride,Inhibitor
+2,Carvedilol,Inhibitor
+3,Cimetidine,Inhibitor
+4,Cisplatin,Substrate
+5,Dexamethasone,Inducer
+6,Dinoprostone,Substrate
+7,Estradiol,Inhibitor
+8,Imatinib,Substrate
+9,Insulin (human),Inducer
+10,Lamivudine,Substrate
+11,Metformin,Substrate
+12,Nicotine,Inhibitor
+13,Phenformin,Inhibitor
+14,Pramipexole,Substrate
+15,Prazosin,Inhibitor
+16,Quinidine,Substrate
+17,Rifampicin,Inducer
+18,Tubocurarine,Inhibitor

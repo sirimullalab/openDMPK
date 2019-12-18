@@ -1,0 +1,2 @@
+,compound_id,assay_id,compound_molregno,pref_name,assay_organism,td_organism,relationship_type,standard_relation,standard_value,standard_units,standard_type,activity_comment,doc_id,tid,parent_type,target_type,confidence_score,smiles
+0,CHEMBL552240,CHEMBL1035291,561513,"Cytochrome P450, family 4, subfamily X, polypeptide 1, isoform CRA_c",,Homo sapiens,H,=,24000.0,nM,IC50,,47370,102388,PROTEIN,SINGLE PROTEIN,8,CC[C@@H](Oc1cccc(Cn2c(C)c(C(=O)c3ccc(Cl)cc3)c4ccc(OC(F)(F)F)cc24)c1)C(=O)O

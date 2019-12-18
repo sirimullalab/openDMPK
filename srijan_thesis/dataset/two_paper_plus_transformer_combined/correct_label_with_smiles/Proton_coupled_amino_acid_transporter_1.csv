@@ -1,0 +1,6 @@
+,drug_name,drug_type,Smiles
+0,Caffeine,Proton_coupled_amino_acid_transporter_1-Inhibitor,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+1,Cycloserine,Proton_coupled_amino_acid_transporter_1-Substrate,N[C@@H]1CONC1=O
+2,Glycine,Proton_coupled_amino_acid_transporter_1-Substrate,NCC(O)=O
+3,Oxitriptan,Proton_coupled_amino_acid_transporter_1-Inhibitor,N[C@@H](CC1=CNC2=C1C=C(O)C=C2)C(O)=O
+4,Vigabatrin,Proton_coupled_amino_acid_transporter_1-Substrate,N[C@@H](CCC(O)=O)C=C

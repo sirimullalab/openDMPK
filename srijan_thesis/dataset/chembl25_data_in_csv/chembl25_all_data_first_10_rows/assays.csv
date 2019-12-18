@@ -1,0 +1,11 @@
+,assay_id,doc_id,description,assay_type,assay_test_type,assay_category,assay_organism,assay_tax_id,assay_strain,assay_tissue,assay_cell_type,assay_subcellular_fraction,tid,relationship_type,confidence_score,curated_by,src_id,src_assay_id,chembl_id,cell_id,bao_format,tissue_id,variant_id,aidx
+0,1,11087,The compound was tested for the in vitro inhibition of platelet 12-lipoxygenase at a concentration of 30 uM,B,,,,,,,,,12052,H,8,Autocuration,1,,CHEMBL615117,,BAO_0000019,,,CLD0
+1,2,684,Compound was evaluated for its ability to mobilize calcium in 1321NI cells,F,,,,,,,,,22226,U,0,Autocuration,1,,CHEMBL615118,,BAO_0000219,,,CLD0
+2,3,15453,,B,,,,,,,,,22229,U,0,Autocuration,1,,CHEMBL615119,,BAO_0000019,,,CLD0
+3,4,17841,Binding affinity against A2 adenosine receptor in bovine striatal membranes using [3H]CGS-21680,B,,,Bos taurus,9913.0,,,,,104729,H,4,Autocuration,1,,CHEMBL615120,,BAO_0000249,,,CLD0
+4,5,17430,In vitro cell cytotoxicity against 143-B cell lines (Human osteosarcoma cell line),F,,,Homo sapiens,9606.0,,,143B,,80001,N,1,Intermediate,1,,CHEMBL615121,163.0,BAO_0000219,,,CLD0
+5,6,17430,In vitro cell cytotoxicity against 143-B cell lines (Human osteosarcoma cell line),F,,,Homo sapiens,9606.0,,,143B,,80001,N,1,Intermediate,1,,CHEMBL615122,163.0,BAO_0000219,,,CLD0
+6,7,13799,Cytotoxic Activity was evaluated against 143B (TK-) tumor cells,F,,,Mus musculus,10090.0,,,143B-LTK,,80001,N,1,Intermediate,1,,CHEMBL615123,163.0,BAO_0000219,,,CLD0
+7,8,17774,In vitro cell cytotoxicity was determined against 143B cell line,F,,,Homo sapiens,9606.0,,,143B,,80001,N,1,Expert,1,,CHEMBL615124,163.0,BAO_0000219,,,CLD0
+8,9,3801,Inhibitory activity against tumor osteosarcoma cell line 143B after 72 hr continuous exposure to compound,F,,,Homo sapiens,9606.0,,,143B,,80001,N,1,Intermediate,1,,CHEMBL615125,163.0,BAO_0000219,,,CLD0
+9,10,17430,In vitro cell cytotoxicity against 143B-LTK cell lines expressed in HSV-1 TK,F,,,Homo sapiens,9606.0,,,143B-LTK,,80001,N,1,Intermediate,1,,CHEMBL615126,163.0,BAO_0000219,,,CLD0

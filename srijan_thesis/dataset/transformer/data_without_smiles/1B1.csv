@@ -1,0 +1,41 @@
+,drug_name,drug_type
+0,Acriflavinium Chloride,Inducer
+1,Amodiaquine,Substrate
+2,Arsenic Trioxide,Inhibitor
+3,Biotin,Inducer
+4,Caffeine,Substrate
+5,Clozapine,Inducer
+6,Daunorubicin,Inhibitor
+7,Dibutylphthalate,Substrate
+8,Diosmectite,Inhibitor
+9,Docetaxel,"Inducer,Inhibitor,Substrate"
+10,Doxorubicin,Inhibitor
+11,Doxycycline,Inhibitor
+12,Erythromycin,Substrate
+13,Estradiol,Substrate
+14,Estrone,Substrate
+15,Flutamide,"Inhibitor,Substrate"
+16,Hydrocortisone,Inhibitor
+17,Hydrogen Peroxide,Substrate
+18,Ketoconazole,Inhibitor
+19,Lansoprazole,Inducer
+20,Melatonin,Substrate
+21,Metharbital,Inducer
+22,Mitobronitol,Inducer
+23,Mitoxantrone,Inhibitor
+24,Omeprazole,Inducer
+25,Oxaliplatin,Substrate
+26,Oxolamine,Inducer
+27,Paclitaxel,Inhibitor
+28,Phenobarbital,Inducer
+29,Primaquine,Inducer
+30,Procarbazine,Substrate
+31,Progesterone,Substrate
+32,Retinol (vit A),Substrate
+33,Rifampicin,Inducer
+34,Rosuvastatin,Substrate
+35,Salicylamide,Inhibitor
+36,Tamoxifen,Inhibitor
+37,Testosterone,Substrate
+38,Theophylline,Substrate
+39,Tryptophan,Inducer
