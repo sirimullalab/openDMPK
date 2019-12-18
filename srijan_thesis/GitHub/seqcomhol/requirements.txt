@@ -1,0 +1,6 @@
+numpy==1.17.0
+hypopt==1.0.9
+pprint
+argparse==1.1
+tqdm
+flask==1.1.1
