@@ -1,1 +1,2 @@
 lsc_research_sql_query_results.csv filter=lfs diff=lfs merge=lfs -text
+extractCHEMBL_all_data.csv.zip filter=lfs diff=lfs merge=lfs -text
