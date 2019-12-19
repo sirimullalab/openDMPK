@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="sourceCode" type="xstring" value="# Copy input to output%%00010output_table = input_table.copy()%%00010import pandas as pd%%00010from tqdm import tqdm%%00010import math%%00010from sklearn import model_selection%%00010from sklearn.metrics import classification_report%%00010from sklearn.metrics import confusion_matrix%%00010from sklearn.metrics import accuracy_score%%00010from sklearn.linear_model import LogisticRegression%%00010from sklearn.tree import DecisionTreeClassifier%%00010from sklearn.neighbors import KNeighborsClassifier%%00010from sklearn.discriminant_analysis import LinearDiscriminantAnalysis%%00010from sklearn.naive_bayes import GaussianNB%%00010from sklearn.svm import SVC%%00010from sklearn.metrics import accuracy_score, log_loss%%00010from sklearn.neighbors import KNeighborsClassifier%%00010from sklearn.svm import SVC, LinearSVC, NuSVC%%00010from sklearn.tree import DecisionTreeClassifier%%00010from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier%%00010from sklearn.naive_bayes import GaussianNB%%00010from sklearn.discriminant_analysis import LinearDiscriminantAnalysis%%00010from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis%%00010from xgboost import XGBClassifier%%00010from pandas.plotting import scatter_matrix%%00010import matplotlib.pyplot as plt%%00010from sklearn import model_selection%%00010from sklearn.metrics import classification_report%%00010from sklearn.metrics import confusion_matrix%%00010from sklearn.metrics import accuracy_score%%00010from sklearn.linear_model import LogisticRegression%%00010from sklearn.tree import DecisionTreeClassifier%%00010from sklearn.neighbors import KNeighborsClassifier%%00010from sklearn.discriminant_analysis import LinearDiscriminantAnalysis%%00010from sklearn.naive_bayes import GaussianNB%%00010from sklearn.svm import SVC%%00010from sklearn.dummy import DummyClassifier%%00010from sklearn.naive_bayes import MultinomialNB%%00010from sklearn.neural_network import MLPClassifier%%00010from sklearn.neighbors import KNeighborsClassifier%%00010from sklearn.naive_bayes import GaussianNB%%00010%%00010df = pd.DataFrame(data=output_table)%%00010%%00010%%00010nan_rows = df[df['Output (to number)'].isnull()]%%00010print(len(nan_rows))%%00010# Split-out validation dataset%%00010array = df.values%%00010X = array[:,20:21]%%00010Y = array[:,21]%%00010validation_size = 0.20%%00010seed = 7%%00010X_train, X_test, y_train, y_test = model_selection.train_test_split(X, Y, test_size=validation_size, random_state=seed)%%00010%%00010classifiers = [%%00010    MultinomialNB(),%%00010    GaussianNB(),%%00010    KNeighborsClassifier(n_neighbors = 12),%%00010    DummyClassifier(),%%00010    MLPClassifier(),%%00010    XGBClassifier(),%%00010    KNeighborsClassifier(3),%%00010    LogisticRegression(),%%00010    SVC(kernel=&quot;rbf&quot;, C=0.025, probability=True),%%00010    SVC(kernel=&quot;rbf&quot;, C=0.025, probability=True),%%00010    NuSVC(probability=True),%%00010    DecisionTreeClassifier(),%%00010    RandomForestClassifier(),%%00010    AdaBoostClassifier(),%%00010    GradientBoostingClassifier(),%%00010    GaussianNB(),%%00010    LinearDiscriminantAnalysis(),%%00010    QuadraticDiscriminantAnalysis()]%%00010%%00010# Logging for Visual Comparison%%00010log_cols=[&quot;Classifier&quot;, &quot;Accuracy&quot;, &quot;Log Loss&quot;]%%00010log = pd.DataFrame(columns=log_cols)%%00010%%00010for clf in classifiers:%%00010    clf.fit(X_train, y_train)%%00010    name = clf.__class__.__name__%%00010    %%00010    print(&quot;=&quot;*30)%%00010    print(name)%%00010    %%00010    print('****Results****')%%00010    train_predictions = clf.predict(X_test)%%00010    acc = accuracy_score(y_test, train_predictions)%%00010    print(&quot;Accuracy: {:.4%}&quot;.format(acc))%%00010    %%00010    train_predictions = clf.predict_proba(X_test)%%00010    ll = log_loss(y_test, train_predictions)%%00010    print(&quot;Log Loss: {}&quot;.format(ll))%%00010    %%00010    log_entry = pd.DataFrame([[name, acc*100, ll]], columns=log_cols)%%00010    log = log.append(log_entry)%%00010    %%00010print(&quot;=&quot;*30)"/>
+<entry key="rowLimit" type="xint" value="1000"/>
+<entry key="pythonVersionOption" type="xstring" value="python3"/>
+<entry key="python2Command" type="xstring" value=""/>
+<entry key="python3Command" type="xstring" value=""/>
+<entry key="chunkSize" type="xint" value="500000"/>
+<entry key="convertMissingToPython" type="xboolean" value="false"/>
+<entry key="convertMissingFromPython" type="xboolean" value="false"/>
+<entry key="sentinelOption" type="xstring" value="MIN_VAL"/>
+<entry key="sentinelValue" type="xint" value="0"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.knime.python2.nodes.script.Python2ScriptNodeFactory"/>
+<entry key="node-name" type="xstring" value="Python Script (1⇒1)"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Python nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.python2.nodes"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="4.0.0.v201906190741"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Python Integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.python2.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="4.0.0.v201906241606"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Python Script (1⇒1)"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

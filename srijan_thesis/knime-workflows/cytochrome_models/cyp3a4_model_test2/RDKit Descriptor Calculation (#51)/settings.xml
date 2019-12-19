@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="input_column_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="input_column" type="xstring" value="smiles"/>
+<config key="selectedDescriptors_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_stringarray"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="selectedDescriptors">
+<entry key="array-size" type="xint" value="50"/>
+<entry key="0" type="xstring" value="slogp"/>
+<entry key="1" type="xstring" value="smr"/>
+<entry key="2" type="xstring" value="LabuteASA"/>
+<entry key="3" type="xstring" value="TPSA"/>
+<entry key="4" type="xstring" value="AMW"/>
+<entry key="5" type="xstring" value="ExactMW"/>
+<entry key="6" type="xstring" value="NumLipinskiHBA"/>
+<entry key="7" type="xstring" value="NumLipinskiHBD"/>
+<entry key="8" type="xstring" value="NumRotatableBonds"/>
+<entry key="9" type="xstring" value="NumHBD"/>
+<entry key="10" type="xstring" value="NumHBA"/>
+<entry key="11" type="xstring" value="NumAmideBonds"/>
+<entry key="12" type="xstring" value="NumHeteroAtoms"/>
+<entry key="13" type="xstring" value="NumHeavyAtoms"/>
+<entry key="14" type="xstring" value="NumAtoms"/>
+<entry key="15" type="xstring" value="NumStereocenters"/>
+<entry key="16" type="xstring" value="NumUnspecifiedStereocenters"/>
+<entry key="17" type="xstring" value="NumRings"/>
+<entry key="18" type="xstring" value="NumAromaticRings"/>
+<entry key="19" type="xstring" value="NumSaturatedRings"/>
+<entry key="20" type="xstring" value="NumAliphaticRings"/>
+<entry key="21" type="xstring" value="NumAromaticHeterocycles"/>
+<entry key="22" type="xstring" value="NumSaturatedHeterocycles"/>
+<entry key="23" type="xstring" value="NumAliphaticHeterocycles"/>
+<entry key="24" type="xstring" value="NumAromaticCarbocycles"/>
+<entry key="25" type="xstring" value="NumSaturatedCarbocycles"/>
+<entry key="26" type="xstring" value="NumAliphaticCarbocycles"/>
+<entry key="27" type="xstring" value="FractionCSP3"/>
+<entry key="28" type="xstring" value="Chi0v"/>
+<entry key="29" type="xstring" value="Chi1v"/>
+<entry key="30" type="xstring" value="Chi2v"/>
+<entry key="31" type="xstring" value="Chi3v"/>
+<entry key="32" type="xstring" value="Chi4v"/>
+<entry key="33" type="xstring" value="Chi1n"/>
+<entry key="34" type="xstring" value="Chi2n"/>
+<entry key="35" type="xstring" value="Chi3n"/>
+<entry key="36" type="xstring" value="Chi4n"/>
+<entry key="37" type="xstring" value="HallKierAlpha"/>
+<entry key="38" type="xstring" value="kappa1"/>
+<entry key="39" type="xstring" value="kappa2"/>
+<entry key="40" type="xstring" value="kappa3"/>
+<entry key="41" type="xstring" value="slogp_VSA_1_12"/>
+<entry key="42" type="xstring" value="smr_VSA_1_10"/>
+<entry key="43" type="xstring" value="peoe_VSA_1_14"/>
+<entry key="44" type="xstring" value="MQN"/>
+<entry key="45" type="xstring" value="FlowVariablePlaceHolder1"/>
+<entry key="46" type="xstring" value="FlowVariablePlaceHolder2"/>
+<entry key="47" type="xstring" value="FlowVariablePlaceHolder3"/>
+<entry key="48" type="xstring" value="FlowVariablePlaceHolder4"/>
+<entry key="49" type="xstring" value="FlowVariablePlaceHolder5"/>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.rdkit.knime.nodes.descriptorcalculation.DescriptorCalculationNodeFactory"/>
+<entry key="node-name" type="xstring" value="RDKit Descriptor Calculation"/>
+<entry key="node-bundle-name" type="xstring" value="RDKit Nodes for Knime"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.rdkit.knime.nodes"/>
+<entry key="node-bundle-vendor" type="xstring" value="NIBR"/>
+<entry key="node-bundle-version" type="xstring" value="3.8.0.v201906261723"/>
+<entry key="node-feature-name" type="xstring" value="RDKit KNIME integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.rdkit.knime.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="NIBR"/>
+<entry key="node-feature-version" type="xstring" value="3.8.0.v201906261723"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="RDKit Descriptor Calculation"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

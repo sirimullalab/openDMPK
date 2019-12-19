@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="smiles_column_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="smiles_column" type="xstring" value="smiles"/>
+<config key="new_column_name_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="new_column_name" type="xstring" value="smiles (Fingerprint)"/>
+<config key="remove_source_columns_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="remove_source_columns" type="xboolean" value="false"/>
+<config key="fp_type_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="fp_type" type="xstring" value="morgan"/>
+<config key="torsion_path_length_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="torsion_path_length" type="xint" value="4"/>
+<config key="min_path_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="min_path" type="xint" value="1"/>
+<config key="max_path_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="max_path" type="xint" value="7"/>
+<config key="atompairs_min_path_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="atompairs_min_path" type="xint" value="1"/>
+<config key="atompairs_max_path_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="atompairs_max_path" type="xint" value="30"/>
+<config key="num_bits_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="num_bits" type="xint" value="1024"/>
+<config key="radius_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="radius" type="xint" value="2"/>
+<config key="layer_flags_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="layer_flags" type="xint" value="65535"/>
+<config key="use_chirality_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="use_chirality" type="xboolean" value="false"/>
+<config key="is_rooted_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="is_rooted" type="xboolean" value="false"/>
+<config key="atom_list_column_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="atom_list_column" type="xstring" isnull="true" value=""/>
+<config key="include_atoms_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="include_atoms" type="xboolean" value="true"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.rdkit.knime.nodes.rdkfingerprint.RDKitCountBasedFingerprintNodeFactory"/>
+<entry key="node-name" type="xstring" value="RDKit Count-Based Fingerprint"/>
+<entry key="node-bundle-name" type="xstring" value="RDKit Nodes for Knime"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.rdkit.knime.nodes"/>
+<entry key="node-bundle-vendor" type="xstring" value="NIBR"/>
+<entry key="node-bundle-version" type="xstring" value="3.8.0.v201906261723"/>
+<entry key="node-feature-name" type="xstring" value="RDKit KNIME integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.rdkit.knime.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="NIBR"/>
+<entry key="node-feature-version" type="xstring" value="3.8.0.v201906261723"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="RDKit Count-Based Fingerprint"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>
