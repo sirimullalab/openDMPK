@@ -6,4 +6,10 @@
 
 ## Acknowledgements
 
-I would like to thank [Dr. Suman Sirimulla](https://expertise.utep.edu/node/36435) and [Dr. Vaibhav A. Dixit](https://www.bits-pilani.ac.in/pilani/vaibhavdixit/profile) for taking the time to mentor me and for providing invaluable suggestions. I truly appreciate their constant trust and encouragement!<br/>
+1. I would like to thank [Dr. Suman Sirimulla](https://expertise.utep.edu/node/36435) and [Dr. Vaibhav A. Dixit](https://www.bits-pilani.ac.in/pilani/vaibhavdixit/profile) for taking the time to mentor me and for providing invaluable suggestions. I truly appreciate their constant trust and encouragement!<br/>
+
+2. I would also like to thank [Mahmudulla Hassan](https://github.com/hassanmohsin) and [Govinda KC](https://github.com/Govindakc) for their constant help throughout!<br/>
+
+3. [School of Pharmacy, UTEP](https://www.utep.edu/pharmacy/)<br/>
+
+4. [The University of Texas at El Paso](https://www.utep.edu/)<br/>
