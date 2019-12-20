@@ -15,10 +15,11 @@ python3 generate_fp_v8.py fcfp4_lecfp6_rdkDes ../dataset/csv_files/2D6_inh.csv .
 ```
 </br>
 Total available features:</br>
-a) Total number of available features: 20</br>
-b) 
+a) Total number of available features: 20
 ```
-['ecfp0', 'ecfp2', 'ecfp4', 'ecfp6', 'fcfp2', 'fcfp4', 'fcfp6', 'lecfp4', 'lecfp6', 'lfcfp4', 'lfcfp6', 'maccs', 'hashap', 'hashtt', 'avalon', 'laval', 'rdk5', 'rdk6', 'rdk7', 'rdkDes'] + their combination.
+
+['ecfp0', 'ecfp2', 'ecfp4', 'ecfp6', 'fcfp2', 'fcfp4', 'fcfp6', 'lecfp4', 'lecfp6', 'lfcfp4', 'lfcfp6', 'maccs', 'hashap', 'hashtt', 'avalon', 'laval', 'rdk5', 'rdk6', 'rdk7', 'rdkDes']+ their combination.
+
 ```
 
 #### 2. Below command for model training:</br>
