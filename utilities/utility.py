@@ -5,6 +5,7 @@
 # Last Modified: 12/28/2021
 
 import os
+import sys
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
@@ -23,11 +24,7 @@ class ModelGenerator:
     def __init__(self):
         self.tpatf_len=2692
     
-    def _cleanup(self):
-        shutil.rmtree(self.temp_dir)
-    
     def smiletoSDF(self, smile):
-        self.temp_dir = tempfile.mkdtemp()
         # Try to get the rdkit mol
         mol = Chem.MolFromSmiles(smile)
     
@@ -35,13 +32,13 @@ class ModelGenerator:
         AllChem.Compute2DCoords(mol)
         mol.SetProp("smiles", smile)
 
-        w = Chem.SDWriter(os.path.join(self.temp_dir, "temp.sdf"))
+        w = Chem.SDWriter(os.path.join(self.temp_dir, r"temp.sdf"))
         w.write(mol)
         w.flush()
     
     def smiletoTPATF(self, smile):
         features = []
-        script_path = "../mayachemtools/bin/TopologicalPharmacophoreAtomTripletsFingerprints.pl"
+        script_path = os.path.abspath(r"../mayachemtools/bin/TopologicalPharmacophoreAtomTripletsFingerprints.pl")
 
         # Generate the sdf file
         self.smiletoSDF(smile)
@@ -50,21 +47,21 @@ class ModelGenerator:
             print("SDF not found")
             return None
 
-        command = "perl " + script_path + " -r " + os.path.join(self.temp_dir, "temp") + " --AtomTripletsSetSizeToUse FixedSize -v ValuesString -o " + os.path.join(self.temp_dir, "temp.sdf")
+        command = r"perl " + script_path + r" -r " + os.path.join(self.temp_dir, r"temp") + r" --AtomTripletsSetSizeToUse FixedSize -v ValuesString -o " + os.path.join(self.temp_dir, r"temp.sdf")
         
         subprocess.run(command.split(" "), capture_output=True)
         
-        with open(os.path.join(self.temp_dir, "temp.csv"), 'r') as f:
+        with open(os.path.join(self.temp_dir, r"temp.csv"), 'r') as f:
             for line in f.readlines():
                 if "Cmpd" in line:
                     line = line.split(';')[5].replace('"','')
                     features = [int(i) for i in line.split(" ")]
 
-        # Clean up the temporary files
-        self._cleanup()
         return features
 
     def get_matricies(self, inputpath, smilecolumnname, labelcolumnname, excel=True):
+
+
 
         input_split=os.path.split(inputpath)
         input_head=input_split[0]
@@ -89,13 +86,15 @@ class ModelGenerator:
                 train_df=pd.read_csv(inputpath)
             
             train_x_npy = np.zeros((len(train_df),self.tpatf_len))
-            
-            for i in tqdm(range(len(train_df))):
-                try:
-                    train_x_npy[i, :]=self.smiletoTPATF(train_df[smilecolumnname][i])
-                except:
-                    print("Something went wrong with smile {}".format(i))
-                    train_x_npy[i, :]=None
+
+            with tempfile.TemporaryDirectory() as self.temp_dir:
+                for i in tqdm(range(len(train_df))):
+                    try:
+                        train_x_npy[i, :]=self.smiletoTPATF(train_df[smilecolumnname][i])
+                    except Exception as e:
+                        print("Something went wrong with smile {}".format(i))
+                        print(e)
+                        train_x_npy[i, :]=None
 
                 
             train_y_npy=np.array(train_df[labelcolumnname])
